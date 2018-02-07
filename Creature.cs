@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace magic {
+namespace magic_game {
     public abstract class Creature :Card {
         public int attack;
         public int defense;
