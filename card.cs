@@ -11,6 +11,7 @@ namespace magic_game
 
         public String name;
         protected Card(){
+            color = "black";
 
         }
     }

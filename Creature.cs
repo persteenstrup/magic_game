@@ -14,6 +14,7 @@ namespace magic_game {
 
         protected Creature() :base() {  //pretty sure we don't need these to have any inputs
             tapped = true;
+            type = "creature";
             // hasBlocked = false;
             // summoningSick = true;
         }
