@@ -6,7 +6,7 @@ namespace magic_game
     {
         static void Main(string[] args)
         {
-            Game magic_game = new Game;
+            Game magic_game = new Game();
         }
     }
 }

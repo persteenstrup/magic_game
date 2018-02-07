@@ -19,7 +19,11 @@ namespace magic_game {
             // summoningSick = true;
         }
 
-        //THIS IS WHERE YOU PUT THE ATTACK METHOD
+        public override void play(Player me, Player target) {  //chaining to grand children with virtual and override MIGHT work??
+            me.played_creatures.Add(this);
+            //if creature has some on play ability, you would need to create it as a child play function, which would override this play function;
+        }
+
         public void battle(Player attacker, Player target) {  // this is used when no defense happens
             target.health -= attack;
         }

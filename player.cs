@@ -8,13 +8,8 @@ namespace magic_game {
         public int black_mana;
         public Deck deck;
         public List<Card> played_lands;
-<<<<<<< Updated upstream
-        private List<Card> hand;
-        public List<Card> played_creatures;
-=======
         public List<Card> hand;
         public List<Creature> played_creatures;
->>>>>>> Stashed changes
         // public Player target;
 
         public Player (string Humanname) {

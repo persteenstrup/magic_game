@@ -10,7 +10,10 @@ namespace magic_game
         
         protected Spell(){
             
+        }
+        public override void play(Player me, Player target) {
 
-        }   
+        }  
+
     }
 }
