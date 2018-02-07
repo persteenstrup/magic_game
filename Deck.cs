@@ -16,21 +16,40 @@ namespace magic_game{
         DamageSpell spinalTap = new DamageSpell(5,4,"Spinal Tap");
         ModSpell empower = new ModSpell(2,2,"empower", 4);
         DrawSpell resupply = new DrawSpell(2,2,"resupply");
+        Land blackLand = new Land();
+        OldBones OldBones = new OldBones();
+        BlackKnight BlackKnight = new BlackKnight();
         cards.Add(spinalTap);//instanciate all the cards here?
         cards.Add(spinalTap);//  create lists of all available types and have a random algo to randomly pick 25 land,20 spells and 20 creatures?
-        cards.Add(spinalTap);
-        cards.Add(spinalTap);
-        cards.Add(spinalTap);
-        cards.Add(empower);
-        cards.Add(empower);
-        cards.Add(empower);
         cards.Add(empower);
         cards.Add(empower);
         cards.Add(resupply);
         cards.Add(resupply);
-        cards.Add(resupply);
-        cards.Add(resupply);
-        cards.Add(resupply);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(blackLand);
+        cards.Add(BlackKnight);
+        cards.Add(OldBones);
+        cards.Add(BlackKnight);
+        cards.Add(OldBones);
+        cards.Add(BlackKnight);
+        cards.Add(OldBones);
+        this.Shuffle();
+
+
+
     }
     public Card Draw(){
             Card temp = this.cards[0];
