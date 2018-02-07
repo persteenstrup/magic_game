@@ -12,7 +12,6 @@ namespace magic_game
         public String name;
         protected Card(){
             color = "black";
-<<<<<<< HEAD
         }
 
         public virtual void play(Player me, Player target) {  // with virtual in the parent function and override in the child function, it should run the child version of play when called on a generic "card" class
@@ -27,12 +26,6 @@ namespace magic_game
             //     Spell spellCard = this as Spell;
             //     spellCard.play(me, target);
             // }
-=======
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
->>>>>>> 012a3e6735792399b255eacba4c7a1317d64a112
         }
     }
 }
