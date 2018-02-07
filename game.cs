@@ -13,9 +13,11 @@ namespace magic_game
         
         public void startGame() {
             Console.WriteLine("What is Player 1's name?\n");
-            player1 = new Player(Console.ReadLine());
+            string input = Console.ReadLine();
+            player1 = new Player(input);
             Console.WriteLine("What is Player 2's name?\n");
-            player2 = new Player(Console.ReadLine());
+            input = Console.ReadLine();
+            player2 = new Player(input);
             turnLoop();
         }
 
