@@ -1,0 +1,8 @@
+C:\Users\User\Dropbox\Coding_Dojo\C#\oop\consolegame\bin\Debug\netcoreapp1.1\consolegame.deps.json
+C:\Users\User\Dropbox\Coding_Dojo\C#\oop\consolegame\bin\Debug\netcoreapp1.1\consolegame.runtimeconfig.json
+C:\Users\User\Dropbox\Coding_Dojo\C#\oop\consolegame\bin\Debug\netcoreapp1.1\consolegame.runtimeconfig.dev.json
+C:\Users\User\Dropbox\Coding_Dojo\C#\oop\consolegame\bin\Debug\netcoreapp1.1\consolegame.dll
+C:\Users\User\Dropbox\Coding_Dojo\C#\oop\consolegame\bin\Debug\netcoreapp1.1\consolegame.pdb
+C:\Users\User\Dropbox\Coding_Dojo\C#\oop\consolegame\obj\Debug\netcoreapp1.1\consolegame.AssemblyInfo.cs
+C:\Users\User\Dropbox\Coding_Dojo\C#\oop\consolegame\obj\Debug\netcoreapp1.1\consolegame.dll
+C:\Users\User\Dropbox\Coding_Dojo\C#\oop\consolegame\obj\Debug\netcoreapp1.1\consolegame.pdb
