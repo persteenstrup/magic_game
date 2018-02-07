@@ -9,7 +9,7 @@ namespace magic_game {
         public Deck deck;
         public List<Card> played_lands;
         public List<Card> hand;
-        public List<Creature> played_creatures;
+        public List<Card> played_creatures;
         // public Player target;
 
         public Player (string Humanname) {
@@ -26,7 +26,7 @@ namespace magic_game {
             hand.Add (deck.Draw ());
             black_mana = played_lands.Count;
             display (played_lands);
-            display (played_creatures as List<Card>);
+            display (played_creatures);
             display (hand);
             turnOptions (target);
 
@@ -128,9 +128,9 @@ namespace magic_game {
                 display (played_creatures);
                 display (hand);
             } else if (input == "2") {
-                display (target);
+                display (target.played_creatures);
             } else if (input == "3") {
-                continue;
+                
             } else {
                 Console.WriteLine ("Invalid input. Please try again.\n");
             }
