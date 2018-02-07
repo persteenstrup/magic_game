@@ -17,13 +17,13 @@ namespace magic_game {
             name = Humanname;
             health = 20;
             deck = new Deck ();
-            hand = deck.draw5 ();
+            hand = deck.Draw5 ();
             black_mana = 0;
         }
 
         public void startTurn (Player target) {
             // this.target = target;
-            hand.Add (deck.draw ());
+            hand.Add (deck.Draw ());
             black_mana = played_lands.Count;
             display (played_lands);
             display (played_creatures);
