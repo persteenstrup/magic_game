@@ -38,7 +38,7 @@ namespace magic_game {
         public void turnOptions (Player target) {
             bool validChoice = false;
             while (!validChoice) {
-                Console.WriteLine ("What would you like to do? (Select by number.)\n1. Play a card from your hand.\n2. Attack {0}.\n3. Display cards.\n4. End turn.\n", target.name);
+                Console.WriteLine ("What would {0} like to do? (Select by number.)\n1. Play a card from your hand.\n2. Attack {1}.\n3. Display cards.\n4. End turn.\n",name, target.name);
                 string input = Console.ReadLine (); //? i forget if this displays twice
 
                 if (input == "1") {
@@ -48,6 +48,7 @@ namespace magic_game {
                 } else if (input == "3") {
                     displayOptions (target);
                 } else if (input == "4") {
+                    System.Console.WriteLine(input);
                     Console.WriteLine ("Ending turn... [{0}]'s turn.\n", target.name);
                     validChoice = true;
                 } else {
@@ -60,6 +61,7 @@ namespace magic_game {
         public void endTurn(Player target){
             untap();
             target.untap();
+            
         }
 
         public void untap(){
@@ -83,7 +85,7 @@ namespace magic_game {
                         System.Console.WriteLine("Index out of range!");
                         playCard(target);
                     } else{
-                        if(hand[x].cost < black_mana){
+                        if(hand[x].cost <= black_mana){
                             hand[x].play(this, target);
                             black_mana -= hand[x].cost;
                             hand.RemoveAt(x);
