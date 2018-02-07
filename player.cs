@@ -38,11 +38,11 @@ namespace magic_game {
                 string input = Console.ReadLine (); //? i forget if this displays twice
 
                 if (input == "1") {
-                    playCard(target);
+                    playCard (target);
                 } else if (input == "2") {
                     attack (target);
                 } else if (input == "3") {
-                    displayOptions(target);
+                    displayOptions (target);
                 } else if (input == "4") {
                     Console.WriteLine ("Ending turn... [{0}]'s turn.\n", target.name);
                     validChoice = true;
@@ -64,7 +64,7 @@ namespace magic_game {
             }
         }
 
-        public void display (List<Creature> cards, string condition) {
+        public void display (List<Card> cards, string condition) {
             if (condition == "available") {
                 foreach (Creature card in cards) {
                     if (card.tapped) {
@@ -76,8 +76,19 @@ namespace magic_game {
         }
 
         public void displayOptions (Player target) {
-            display (target.played_lands);
-            display (target.played_creatures);
+            Console.WriteLine ("Display:\n1. Your cards\n2. {0}'s cards\n3. Nevermind.\n");
+            string input = Console.ReadLine ();
+            if (input == "1") {
+                display (played_lands);
+                display (played_creatures);
+                display (hand);
+            } else if (input == "2") {
+                display (target);
+            } else if (input == "3") {
+                continue;
+            } else {
+                Console.WriteLine ("Invalid input. Please try again.\n");
+            }
         }
 
         public void attack (Player target) {
@@ -98,29 +109,34 @@ namespace magic_game {
             }
         }
 
-        public object defend (Player me, Player attacker, Creature attacking_creature, int attackIdx) {
+        public void defend (Player me, Player attacker, Creature attacking_creature, int attackIdx) {
             this.display (played_creatures, "available");
             System.Console.WriteLine ("Which creature would you like to defend with?");
             System.Console.WriteLine ("input index or none");
             string inputLine = Console.ReadLine ();
             if (inputLine == "none") {
-                return attacking_creature.battle (this, attacker);
+                attacking_creature.battle (this, attacker);
+                return;
             }
             int x = 0;
             if (Int32.TryParse (inputLine, out x)) {
                 if (!attacking_creature[x].tapped) {
                     System.Console.WriteLine ("Creature has already defended!");
-                    return this.defend (me, attacker, attacking_creature, attackIdx);
+                    this.defend (me, attacker, attacking_creature, attackIdx);
+                    return;
                 }
                 if (x > played_creatures.Count - 1) {
                     System.Console.WriteLine ("Creature index out of range!");
-                    return this.defend (me, attacker, attacking_creature, attackIdx);
+                    this.defend (me, attacker, attacking_creature, attackIdx);
+                    return;
                 } else {
-                    return attacking_creature.battle (this, attacker, attackIdx, x, played_creatures[x]);
+                    attacking_creature.battle (this, attacker, attackIdx, x, played_creatures[x]);
+                    return;
                 }
             } else {
                 System.Console.WriteLine ("Input was not an integer!");
-                return this.defend (me, attacker, attacking_creature, attackIdx);
+                this.defend (me, attacker, attacking_creature, attackIdx);
+                return;
             }
         }
     }
