@@ -11,9 +11,18 @@ namespace magic_game
             this.color = "black";
             this.name = name;
             this.spellType= "damage";
+            this.type = "spell";
         }   
         public void use(Object victim){
-            victim.health -= this.damage;
+            if(victim is Creature){
+                Creature victim1 = victim as Creature;
+            victim1.defense -= this.damage;
+            //discard
+            }else{
+                Player Victim1 = victim as Player;
+                Victim1.health -= this.damage;
+                //discard
+            }
         }
     }
 }

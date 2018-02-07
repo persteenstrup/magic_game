@@ -2271,7 +2271,11 @@
   },
   "libraries": {
     "Libuv/1.9.1": {
+<<<<<<< Updated upstream
       "sha512": "njmdwG1nqeOYv/vABbjx/yWjWPun322KDKh8+KtIRvG08oy2jPSgfcVtF5Kbx4qK0YmiamR+DKgFmd/w6jDqGA==",
+=======
+      "sha512": "Zfy9z5lTd6+DH586P5DqsaVzNrE7fFvL3x/YVhjj9MNYRPXxI1MbnwgZ3sylUoGyBmoNE+Jvusarep7jqJrnRA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "libuv/1.9.1",
       "files": [
@@ -2289,7 +2293,11 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
+<<<<<<< Updated upstream
       "sha512": "aD0/LQaA3Fqfn/HCNuwWZQS6Sw7HgvxcYlRi8a+ixOzjRlnmYnuliX/4H0i1/hTLhmDMUlVdwZB1kR6eRNRO/w==",
+=======
+      "sha512": "AP53vZXflSgtdWV4ziHcxCMZoc/bdz9iXRx5SfKmodcwulKM/nyMbWMTd/x0Ejcj7ATXalehbQDSCNwtmkRExg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "files": [
@@ -2305,7 +2313,11 @@
       ]
     },
     "Microsoft.CodeAnalysis.Common/1.3.0": {
+<<<<<<< Updated upstream
       "sha512": "k3sDJbItx8uWC/uJSwSxXtHvJiXcod+YK18R+XLRxTM/tYGM6vqGVD84wDRNstRIzudwivE+8ltUQwtcsgNfoA==",
+=======
+      "sha512": "uCnWHpcaL0p1IS8WmTfb8vCVuTZ8bzK6FWZmjOgzkjJXKXrompnuXmIkotxVnDiyuRnVMx3OoiWAn/2BB5crAw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.codeanalysis.common/1.3.0",
       "files": [
@@ -2321,7 +2333,11 @@
       ]
     },
     "Microsoft.CodeAnalysis.CSharp/1.3.0": {
+<<<<<<< Updated upstream
       "sha512": "SLlxdoSffHp9RvfAq02iutI2MycQ304K3go49+ucNWaSW6VIy4JQ2AiuL1TUMqLjTq1ns5OP4bILPYlfn3ChrQ==",
+=======
+      "sha512": "ltlscCOEgQ9GIKYoJr9dSeZYhT7sXS0E6MDUGx6EKuh0FGs/mug82CHXSG8ijLVOdRFigp36OF7Ex5kcRajstQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.codeanalysis.csharp/1.3.0",
       "files": [
@@ -2337,7 +2353,11 @@
       ]
     },
     "Microsoft.CodeAnalysis.VisualBasic/1.3.0": {
+<<<<<<< Updated upstream
       "sha512": "kT7txzmde01r2hCw2kNxrMSZg2GUdS+nD6l7+Uv88AE4I6XHs6zIDkz8vwavUkbNhhavFG77Ntvz2cEgJRYy1A==",
+=======
+      "sha512": "32PziZZ6BzvgeenCAt2veLRwq6ydoTa+5nJUiHOuBXRJ7N2qEY6SC0qozXvJtMmC8OXh9BIDwu5QXSh1RL2aJA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.codeanalysis.visualbasic/1.3.0",
       "files": [
@@ -2353,7 +2373,11 @@
       ]
     },
     "Microsoft.CSharp/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "OJ6GAT1cOuNDV3s2Mz6eaKglSbGou3Ys2j67vCpjwAeohDJg7U7EqWjxMHlenK+lq86DxTpvfy8Pqn6a6pr7Pg==",
+=======
+      "sha512": "OX8I7hgIRzt1s9gdWq7h9unbGGTtJ7TlrU65pIpDwv7wTjtI5OGUWk4FIRFbME3I1r0LczG5BORrs/Xb0yUTdg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.csharp/4.3.0",
       "files": [
@@ -2410,7 +2434,11 @@
       ]
     },
     "Microsoft.DiaSymReader.Native/1.4.1": {
+<<<<<<< Updated upstream
       "sha512": "tANdCj8cL+MF6MeVDvJGzIWFck7fyPensqJJ/7OxXlS7wuhrQAje+C4KrZ+Rmr5G7+TpeNkNtRzdcLjmP99q9w==",
+=======
+      "sha512": "kdSfja/GXVGdFWPlOrmd5xwGigVvnJbOYsWP9BOYc6z0SODezG3ARISZHO5EzC8w+t/lfIY+Myj28z3Ep+EmqA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.diasymreader.native/1.4.1",
       "files": [
@@ -2426,7 +2454,11 @@
       ]
     },
     "Microsoft.NETCore.App/1.1.2": {
+<<<<<<< Updated upstream
       "sha512": "K9SCZLwWUReZfSBAaUCsFypClyzxlBeRa/AUzIJupKkiThvKwEer0vOetjCOZRhkypb00ORqoQsBxhLbJwFU9Q==",
+=======
+      "sha512": "K7/1lFtA1U1DBlJwkh5YTx7DyX/qusqzaSMoD+dIsPAaJkV44wG8A+xvF03q9HWoUHamWXiigWupddUCNqfZPg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.netcore.app/1.1.2",
       "files": [
@@ -2438,7 +2470,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetHost/1.1.0": {
+<<<<<<< Updated upstream
       "sha512": "dJoK2ap2mTgC+MlBXSDIQK/q+0z1ZJO/J31PWlbrJEa0GCDahV8XfRSmBePPL6Kfw8uY/Eg7W/G8VVSxw1eJLw==",
+=======
+      "sha512": "FdvWkIGAmn7xXa1CxW//woTwGW+Zz5Xes3zLjglS1/LZmOfAmKAUcSGA5hk4YsFKaJkc4vU96PAD82Uid2AAKA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.netcore.dotnethost/1.1.0",
       "files": [
@@ -2450,7 +2486,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/1.1.2": {
+<<<<<<< Updated upstream
       "sha512": "6zloIiuultScaUyKXfKcvqfTHgEZyXliZkrhLiOu8z+liaPsRg6qi80CJYUE6UIdtuFNInDhDW/Uqr3oBzUdLw==",
+=======
+      "sha512": "TwVKiynjOV9ylZ7iZMWmqsP5oUre6PCtLhYGQI+QLd1aLagcBER77MlPoQWfTmfQuFO+i9MzmSS6Og4kctbOKA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/1.1.2",
       "files": [
@@ -2462,7 +2502,11 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/1.1.0": {
+<<<<<<< Updated upstream
       "sha512": "FDZSMRiTCzE4vPHXPshJiCVW5q+WICkHo1MLWti6j4p2PFn1+ss7FHR4u+2cIjcNaIKFS9jXe9rz/oga7/ipaw==",
+=======
+      "sha512": "dUQzbc/+/eXHUDkl1xAcpSArrPlVf+M2o/hd2n8+czIsMnJpd6Lqhrz1G6fX/LDk8Ngzz405CoRWCeKGeHol2g==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/1.1.0",
       "files": [
@@ -2474,7 +2518,11 @@
       ]
     },
     "Microsoft.NETCore.Jit/1.1.2": {
+<<<<<<< Updated upstream
       "sha512": "a4asNKUnly10Oe7/bJmgpH+NQGd6uprOD95PhF6hjpIJthLRHH003Bfvtqtefu9kwBf/3xdHt86eWd+C/G2nVg==",
+=======
+      "sha512": "P0yq9VYdS42/jvTzbwG83mdiw5Re2ModIUr1Tvd0QtvsMrxf0qsPKyDGloCV6Vz7i8e7Dat3wWwtN4N8qzEL/g==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.netcore.jit/1.1.2",
       "files": [
@@ -2486,7 +2534,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
+<<<<<<< Updated upstream
       "sha512": "kWDf/s64+LQU2UzfHnxWKUyumLpSRnjKDcosmdtoYGllWNwZIUUFyw8dqpc5XHhYS1tqD1IAY1aBCU9LFG/G2Q==",
+=======
+      "sha512": "Z7VVYcyPYQosKC1K6DxNQ6/StJxC2JMb4YFGDrWbdIuei7UM/hgtOy7KdKjEtTB91gHR9iCbLnVociQrs1h8rA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -2499,7 +2551,11 @@
       ]
     },
     "Microsoft.NETCore.Runtime.CoreCLR/1.1.2": {
+<<<<<<< Updated upstream
       "sha512": "VMXS72+/wPOKhPjPCLStRVb3vAnJazycpXI/RX36reoCWDWI8qlrVBvj8hsvQljf5aNO/qY4HDBAZhlz9pArlA==",
+=======
+      "sha512": "ok5HzWaXnOkUx3EwU880zsl1stq7yefqAxfB4ZOChEfxwrZ7mcUjqomBkUGbVb/jAWyOfA+atsXrjZjTJbDxfg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.netcore.runtime.coreclr/1.1.2",
       "files": [
@@ -2511,7 +2567,11 @@
       ]
     },
     "Microsoft.NETCore.Targets/1.1.0": {
+<<<<<<< Updated upstream
       "sha512": "uOiamwWlNsXegpmdrmvnevPf3wax8lYboxzgbvo3GMnrbn0dtZxHtS9Dj4NFY8tsT8n24Y5H5Krf0YZKd3k8Xw==",
+=======
+      "sha512": "AAoTm7Wj818RmGBaJlZIKlLVErV6Cp5jN/g95QeV3Dm6dFeKIVxuH4HBn3/eKq01cm0U5GBRPxdxKgdtTi7Big==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.netcore.targets/1.1.0",
       "files": [
@@ -2524,7 +2584,11 @@
       ]
     },
     "Microsoft.NETCore.Windows.ApiSets/1.0.1": {
+<<<<<<< Updated upstream
       "sha512": "Ra3VbhKdX/ynsHWBSQrTNJlFNFwPgLL6T014IOgB2Nnu8o9Vmh7cZVEgIh87tUGvM/vdK0aNcsB5LkPaK4EHXw==",
+=======
+      "sha512": "9ttVbb9ZyMbSr+LfT6NGx/Pxm+mGXWinV8xeULgKBDzGLK4myYyWpGgrhV2mq18wprKOc0s0XjE9wt3m2U4s2Q==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.netcore.windows.apisets/1.0.1",
       "files": [
@@ -2536,7 +2600,11 @@
       ]
     },
     "Microsoft.VisualBasic/10.1.0": {
+<<<<<<< Updated upstream
       "sha512": "HzkhhcbHntkKkt7TySOwcwoExUc7uihTdsID2hjCS2mKdVZI9PmwE+uOh+zA4k36BOXudV5O2dAtVpBwXipPJA==",
+=======
+      "sha512": "22oe36OrF7g6TYqxXnC0USLOkNIsqoMhy8g4BMv8ar6GP9YlbGt1r2ltnme3Ti924HPMiI6OcLsmAXZepaP30A==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.visualbasic/10.1.0",
       "files": [
@@ -2584,7 +2652,11 @@
       ]
     },
     "Microsoft.Win32.Primitives/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "mqoL2QQoO0rnz06w+DjgGLMfi+otICCA/jTBca+vN33Lo43mD0k6oGvsNDf9fz4TYG/RsBdBxLAwHe08X7KIVA==",
+=======
+      "sha512": "YtKuNrFv9mj2ixgryjDZArHkrC1rYsdeGW4UpZ1u+thkEdTI6ZQ8HenuHLONH2rZaeYmlYqS6njAiH+5oyFKOA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.win32.primitives/4.3.0",
       "files": [
@@ -2620,7 +2692,11 @@
       ]
     },
     "Microsoft.Win32.Registry/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "l1/vhucbldwDcnsjLnPq7835cbx+pZb86cFyVrK6vpqmpqzzqSN4MAlf6RTVPyhnn+NSSkBh5WQTWkXbfFbyRQ==",
+=======
+      "sha512": "yMFBA4hncmBPfBWd5RKSPPH01SrPwDwTaHHYXVPk0+hxOUITrQPdpfS8wGXwgwdckh2n5fTO3fIzjbopqYFBkQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "microsoft.win32.registry/4.3.0",
       "files": [
@@ -2648,7 +2724,11 @@
       ]
     },
     "NETStandard.Library/1.6.1": {
+<<<<<<< Updated upstream
       "sha512": "IKGrVsPfLjJ33GvQznIKfPnC9QW2U24E8LZc222xPsS7cvuBiKzPDnEf8bQstZjuHVzHQPWtPrsv49Ir5sYPCA==",
+=======
+      "sha512": "Srdr2j5hRJqHX3GMJgBN2s1R0ezVjMROc29XL39cT6gwd4FkCqd/rqEzoRD6MG1hOw6xnitAdZHdeeXZLlEYAQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "netstandard.library/1.6.1",
       "files": [
@@ -2659,7 +2739,11 @@
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "Az2mphy7Eytkb3rNdUDBTF8qP3/Wal7HEB/q55eGG51/Lw7Yu+PhAaARsXoRHmnZM40iMsNV+s7mkAx5D0VYww==",
+=======
+      "sha512": "IOX8FdzYbpbr0a4cxc4+wr0KIoDzVPqQ/NJGhGy1WnomEE/NzBd/iI2i/BHdB3C2tMjSNyukOSpauvjcfyU7Hg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2671,7 +2755,11 @@
       ]
     },
     "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "/Rxmmy4chHplPjsdWas8kN1RAlmw0xjbOBqNFr2lUqz1+QIEvLK7avq2EEH1SXj0BBcvJMKd692E/06ZuO5V9A==",
+=======
+      "sha512": "8AXiWyIm1ptMtnVqcWaUa+SehyUiQXKrvVpMQHxzD1tns3ghL3X8rGWHYW2L40spwLeejtM6NAiD9lKuM2IONQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2683,7 +2771,11 @@
       ]
     },
     "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "C8e9zUHqP/B7LDPr3Bg/bxX9l/l8PFGW7+opxj2O1yFtt/6VZ91QqVGaT/m/XUwKdDB7M7QGnSH1XHrs4jCU7A==",
+=======
+      "sha512": "JuDxwqqaYR9Fa3D45c0VIQgIQNNEO5Iifrn9pkdHU/2pVjPiVv8Qq+Br0uFZeD1yM03thNQEW/71wP3El1aHgg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2695,7 +2787,11 @@
       ]
     },
     "runtime.native.System/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "nEedf5YncQBqNjzFOMX1VxMfZUe6/DnHC1Fysw/aHKvnKIUweoJ4u6nV1NPu1OcoVz+NwDExlmdTNgTZ7QoDIg==",
+=======
+      "sha512": "8qE1S/TX4+a1vZ2mcMrXIXkdBxUzSgenHxPFxD15BCjOIYxyP6LTmmLaBpss3q/OA15eOEMc7gyBu09TSJjdvQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.native.system/4.3.0",
       "files": [
@@ -2707,7 +2803,11 @@
       ]
     },
     "runtime.native.System.IO.Compression/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "GlDZlSFHUbWIDsxIH4bEg84zYDu+PAI9eDDajoGdR5xAaD7p/Nro98CHpQoo2fc4X29uVhO8NK5oB82B8bhikQ==",
+=======
+      "sha512": "dwtrzdyGBbL+2f2o35haQFfQKgMy6WXWyVSXs5EwlUMU7fIA/r8AsAB9Tn8Gpuw1VibfnC3aHcZ0wlvmTdj2Vw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.native.system.io.compression/4.3.0",
       "files": [
@@ -2719,7 +2819,11 @@
       ]
     },
     "runtime.native.System.Net.Http/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "tmh5C/atME621vLAyVr99GYWZtTxiuoiqHNKowzivoMmgKjbKqpIWntSJSMGZYsVH2rUGjIGPszywxDyoKgHfQ==",
+=======
+      "sha512": "tK8YV3H+7oyNl82UlgC2oUSA0ySW+OIcGgB7ABOZ5hBsL8CoFrkNYQVcvlgvd4ERlChM5I3KFyqd1cI8GrXPhA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.native.system.net.http/4.3.0",
       "files": [
@@ -2731,7 +2835,11 @@
       ]
     },
     "runtime.native.System.Net.Security/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "ZL0yITCPxj5b5XF6gFGrUFmZ8cJSMCN4oEJ3JV7qF0DSxT5NDbKeqQhWSCtNNFNy41d8kZgWrQgB5ZWeuj/Prg==",
+=======
+      "sha512": "5LQiM3Ws4RKa0iqEehEZrXFbb0IW+TlWQ7yFnQmKPvIe1VVbm4hIEwByXxz70wxqopYatq84hqXeYQZWEt2jBA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.native.system.net.security/4.3.0",
       "files": [
@@ -2743,7 +2851,11 @@
       ]
     },
     "runtime.native.System.Security.Cryptography.Apple/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "o+8fJR0sExD3jZh4VG2A87l1e+37H8Mm6xWKyq4agW1d35zv+b7OzgozpR9JYeVArEN4vRDlHbeTIjECn2KByw==",
+=======
+      "sha512": "e98eDFw7Up5RegiQHVCe775u6QeWV7m/EULooKDSu1obemjbgi35H1kyQeeJQDVMVepMQQppu0ofqHmJ5YZOtg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
@@ -2755,7 +2867,11 @@
       ]
     },
     "runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "VuM5nXp5Yckf+XHp+G6Y1fnbUF1Alf8p56NAYTxCx1Ws6bt2rJGUCn5abQHxXYs8R+njJCOb2nE0I4SFJEZtLg==",
+=======
+      "sha512": "K75tPO4lEajZLq6G+VvwIe1k/ytnPJm1/drQ3fsBDO/GI9MdwZ7BJrUDp7qTBJzRsc8FayZBN91/tGgl0SNySQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2767,7 +2883,11 @@
       ]
     },
     "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "1O8zUG/afcjyt9jDX9SiRYumNcIiWm6omBpUCpgBYSSk7HpVRUroEGV9ExyD+d2XJ0NOGQ5QIVVOVD6UdWdaEg==",
+=======
+      "sha512": "66LzWHXzYVwtmvlkbW87m5al5ZF4PAIns75jaSMLjpFhACgJxkkkCoKmJF4TKncafSXZZuzlbKnNOYyMs19W0w==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2779,7 +2899,11 @@
       ]
     },
     "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "IdHmAOnQFw8/j2Km29dAOOzEP1dVeLeImGzichMUiv/8V9t9VmvzeqDS9QbJqUOapbcAMKkHMiQS0zV7ZmyFVA==",
+=======
+      "sha512": "XSKrIc0Acxf8vrHf6a2rZcRhlMF2Yr3ZvtlVYZiEZDliFCSd6FjcONkWx6P9Mp2l+KT7XPtWL0mqjM0wiyPwLg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2791,7 +2915,11 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "huPZaQHn326UUbmACPlJJkirtBHbdVRIZKHQzwzxW46R6KgdHYoleoGUFvx8Ze0chQ0q4tTAcuuhAN4gDOh7BA==",
+=======
+      "sha512": "34HA+Z9xg818YFEWSFpBu3THVlhvgxxHhNHfJ5Uiy9drVF6C7SMWt0gbLTgN9JR6ygs81RdvMHwEf5KrF3kD7w==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple/4.3.0",
       "files": [
@@ -2803,7 +2931,11 @@
       ]
     },
     "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "GjuHM/J41DzuaI/Tm8ARq2RhGt7cLO3x1S+ZNcoG+225VDzDbdUNvaKmfpknL/mdfYbURH4gv4imxErmOcsWyQ==",
+=======
+      "sha512": "KTwFg0nwKRfuPtDOqit8NXW9OcvEG6raRsxW4m2IYAEsOZ2Ft4VBmWBKr6ftzL7MlnqYaGg0lc8gak4AjytN4w==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2815,7 +2947,11 @@
       ]
     },
     "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "iuRvdTdT/puCuGsmXdZGaTD0+eRNpFCTvh4lgIVCIJ0PFpmC8ynNqhukPc1HmG644B1hsYBHQ7Azzfm00+zKGw==",
+=======
+      "sha512": "XyorQqb18/WF7styK5Xwlxwj0bA8WPir+zqSuUltTOVGgJJMKtF6auDlAzEdGq+KiU/1MhvhaKx4wnOiy5eiXw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2827,7 +2963,11 @@
       ]
     },
     "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "FynLScr3Dmcl+oqJuAs/oAvVmUCYiYt6KzQ8au1fZRHGKqTVC1gd/7+KgxDhqUXO9DUIXYph6S30yxhadsyWmw==",
+=======
+      "sha512": "7ZFuzf/cwVgHBQd/SljGnTd1fW7fWNAtLsDNlxw5SFNl8mv09az+MSNiUELIA04B5d1K3y4EK8VERgEyT02uew==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2839,7 +2979,11 @@
       ]
     },
     "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "ST3mORCquwY4/LH0RSVwZ45MO30z1rpvSU/SFp1V6AjfIMyMqzqVBnNivNLWN5Edvx/iwp7ljTdOlnlycIfLyw==",
+=======
+      "sha512": "VYu+M8g9VUUnTGcRcTgpgYYDfVv1M0A4KDcbsXJeB4Ujx9XSs5gB+nAQzRyuTZYKyWKTAvo7LfhYHzSomjORqg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2851,7 +2995,11 @@
       ]
     },
     "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "urhTHNLhZ7ejwn8w8wbLhMOHb6yyluxh6fcVElMMwzRxNEh9YIzPW46qupjx/hCHqN+tpJRSxbn7uCQDiRGwfQ==",
+=======
+      "sha512": "2bJ5I1/118O9OAmRSm+7VG/3EszQ5RWLf0RRVJUvfJMQsey4i5CDVEWSJqZu3K+CVBgpHIbF5L9e5cJJG+tIXw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.1",
       "files": [
@@ -2863,7 +3011,11 @@
       ]
     },
     "System.AppContext/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "x1rKm4toYY0+RSwipTYDkG2jUFfSzAQhaS6OepFnVQHJQMVDaM3yuTzRgwRrkcqVu13wCg4823foBdmpE/i1sA==",
+=======
+      "sha512": "ZPS28bgXAnllxR0Ni+XA7pIwjb6glC02qzf37qy5MKjVv/hbQAF0703xssXAessLn0btmEu0NBTXiqObwUG26Q==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.appcontext/4.3.0",
       "files": [
@@ -2916,7 +3068,11 @@
       ]
     },
     "System.Buffers/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "0IsI50i7H2GW/TGq8F3awthwuL43XTeGX773ny/evvNDFjjED/+3iBMsKaygAfVxqBmo5NbhVEZkG8/fSYJhcQ==",
+=======
+      "sha512": "GcUpF8VmC1nMUW6vaMBfEPM3YjhFrpRKDbtvPJlzdXoCoOylz1puNRAAkJdRluiTdt28R1YwlT1rvs1tENmiJg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.buffers/4.3.0",
       "files": [
@@ -2929,7 +3085,11 @@
       ]
     },
     "System.Collections/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "et57Q7bBkwDbwfjEeZI6xx6vdZiJsh4jw4Cv4uCdwt9LPmBJ5MKRQVh2F+r2Ar3Eznhsd+40xgtEsIszk8YrQQ==",
+=======
+      "sha512": "267Mqf2pZ/guivakBBMC16F9RQIi4lAUi68F25KTO6dpFP7/GJy6d9ZDTDIHwKujxPQ4DQfEECV+wxUobNd35g==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.collections/4.3.0",
       "files": [
@@ -2995,7 +3155,11 @@
       ]
     },
     "System.Collections.Concurrent/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "kA+ePb2sXnzeOiD2U2zzXvA1cPbPadXS0yBy+NLTD7mUYbURAfvJcJQcANHaRjcxfZ7SJBomGIRQ1sdKPD/1Tg==",
+=======
+      "sha512": "WcGLzG/EkAJ+mJAfrpwBYDk26dfkPlDIIk8YGR6wlE70FjesuW2LanLTK8lmWLr273rPd9MCfJu0JHl2TLYjNg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.collections.concurrent/4.3.0",
       "files": [
@@ -3061,7 +3225,11 @@
       ]
     },
     "System.Collections.Immutable/1.3.0": {
+<<<<<<< Updated upstream
       "sha512": "qGIjXNaKIXCcGCRyVtWeM0p17LS4lPAffCVyNDQZ6yhrfspDQAZwbrQZjdMata5qivBcghWSgu9H9wB3EwjfRw==",
+=======
+      "sha512": "/ZSusOrNTq/B9GcilOS2PB3O+8BSBDpe4gbUwLzHDnBByk5F0b6wyKZIKxrWsTnkSTOOhE+ekoQkZQ7swfSO4A==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.collections.immutable/1.3.0",
       "files": [
@@ -3076,7 +3244,11 @@
       ]
     },
     "System.ComponentModel/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "L/AlWx411JSxoU04eOMob9V61Duya96WrmFmi33jKi7XpJ/vJvjmEoF9LIab5ENxQwCkySDyVX/Mvy6oKhSqHA==",
+=======
+      "sha512": "S8Q646P5X1CV1jdjuRnkaknxIOXpRqnLJPRgqO5b3WdCIjpCOpfww/XxU0wf+EzmBjsPP9q3dso5OSOktcvVMg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.componentmodel/4.3.0",
       "files": [
@@ -3133,7 +3305,11 @@
       ]
     },
     "System.ComponentModel.Annotations/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "/Wy5VlWpsZjoKSprebd/qKA87IpOl7aDrzuBfcXEXHEbrbPGUPrmdPD6N79LMrRfzG7s1UbcvEIBYV/qe8GKbg==",
+=======
+      "sha512": "nal3Y6R6XQRwZSFXIK8M+RcwB15JAZk+qDnRp7kMwLZ45YXfZlQOBa6iNrE9vS6Gw3cqXAEZG/Jglg2ae0j6Hw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.componentmodel.annotations/4.3.0",
       "files": [
@@ -3210,7 +3386,11 @@
       ]
     },
     "System.Console/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "fx9kV0ozVNIh5t4DCaBNVckkPbTNSVwv7IGC6R08XAo4GeIskldDMMLEGVFlH3ZDjuPsHzO2Fv+JU/cOWJgs4w==",
+=======
+      "sha512": "lO4wjyijiUwYZjCYZIzPGHBcvXo6Cn2CWQ20LOZ6ojn8AgCG/DKFZyjg7baoxNHUT1zWsu7G4m24mmOpEaZ7oA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.console/4.3.0",
       "files": [
@@ -3246,7 +3426,11 @@
       ]
     },
     "System.Diagnostics.Debug/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "bdbthONoAHIRwOFeQT8YOh9FS7hB9WZlcI+UH/S5E1hhdhdz+u5qYfFk0miFUuOBgqB8V+LWvgGGeswhiHDWew==",
+=======
+      "sha512": "/a5Umnw4Fye/tk5/A1Vz7O5IzULKYy4CvXW2mYOOktjgj3g3TvHhagjN2CBXzEJ3KMAGUJs1TnenioTUa6u//Q==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.diagnostics.debug/4.3.0",
       "files": [
@@ -3312,7 +3496,11 @@
       ]
     },
     "System.Diagnostics.DiagnosticSource/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "2O51irX6v65ZPSa9AU+o4CV8Ww3xegwVWKsGJY/Mih9MLPil/AyzC+vvMoAQHrvaR+IM0MV2G6i9flCPE0gt0Q==",
+=======
+      "sha512": "OH4BXr50c5lzMcqauaxpTy1avWNxh71NKa80Hg91obHoUi+MVYNFR0/ChvRmTLvCXYRWmHcSkVGpkmEuWXzOCg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.diagnostics.diagnosticsource/4.3.1",
       "files": [
@@ -3331,7 +3519,11 @@
       ]
     },
     "System.Diagnostics.FileVersionInfo/4.0.0": {
+<<<<<<< Updated upstream
       "sha512": "6MO5Y2PrGRwqaDCfnkHpff486ZoYGzZ+vw3rtrhuTYQzMRkLM+1mW9E+be7nRxn6ryhazU8Yp+O0lMDYYZuSYQ==",
+=======
+      "sha512": "f3Io5lXVUW+haIJvgKvSkM9DxUw5R2G9x/k1PK+UdHM5K2dOu58J78Ayvg1XnZjyCIf1d+gRpKDKW+3HFYZzgg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.diagnostics.fileversioninfo/4.0.0",
       "files": [
@@ -3371,7 +3563,11 @@
       ]
     },
     "System.Diagnostics.Process/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "QhgYU4cdGNCYT+PZgRUSKT1v0SSijD9x4P3nDS2yjNDVQgbEW7xC3rHlw2IsDn+Jg5I6/Hb+6VPZBsFyOoGNjA==",
+=======
+      "sha512": "aELn0tljBTCJSJnMzjRHVzHZ8NK+DVooBIy9XpXy1TdCNX7vi6RwdaXISVUhLPWdAJ9ZSsbV8+QraCMQ1yfUkg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.diagnostics.process/4.3.0",
       "files": [
@@ -3426,7 +3622,11 @@
       ]
     },
     "System.Diagnostics.StackTrace/4.0.1": {
+<<<<<<< Updated upstream
       "sha512": "FJ01lS7SkX/KYy7nmHyn52aZfZbASWfv8ekLWIQMVOMh3dbv5j5X8mlGZkV2K8DOew1Ip3+sOnmXpVDb0ZLEWg==",
+=======
+      "sha512": "RUQUkfq+rEf1WcXih96TijRqEVVPGsmIExW9Zbgx327u1o4LqtLhzDmh0teTDxOnZj+jhv1+jpQGwliIRPtc5Q==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.diagnostics.stacktrace/4.0.1",
       "files": [
@@ -3464,7 +3664,11 @@
       ]
     },
     "System.Diagnostics.Tools/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "v8XEY1yIpKncTigTo6h+E1mViBQA1BEKJwqA70CwhU3vJ9mgxQeW8MToZP6CMANufNkqCaZ5kqzyTWAbHcqDWw==",
+=======
+      "sha512": "v4w08Ba/tw1F7ZIr6sqJpQo08E6LU4Oz3P4GAGMGvKuKoRBCzmuKq5lUmdxhlUp6sf5sFmYim78TwOU2OlKjxQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.diagnostics.tools/4.3.0",
       "files": [
@@ -3519,7 +3723,11 @@
       ]
     },
     "System.Diagnostics.Tracing/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "H86gqbeSL8Qng4vhpaSgd7KoyU5vR/wraGDanmvsGZRq6DP1rl3pGKB/mWAWB0nxtqT2EWFOt+7JEXqxSQbxWw==",
+=======
+      "sha512": "r5KQ14Oyx/JF+Y43AzwEltkxBdeDl0GDDE+W+Zv0Lum1n0rkN3jU55BwrVmmYtxifRJRyL39srfEEAeB+40sVg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.diagnostics.tracing/4.3.0",
       "files": [
@@ -3607,7 +3815,11 @@
       ]
     },
     "System.Dynamic.Runtime/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "TIrO5a1xmzgyFGPs82eGEE5Dea7aXmzK07EtHZaoLw4g+oYvM9w77bdFrgjuSnOgX3hRUsabHWb1w+7rhOZ7yA==",
+=======
+      "sha512": "jcB1tDfban9NICHN+VaWtzGoaZqgt2fXosDU29HC7AYD4OnzilQN9TuRw7wcn4MjH5tz57HSlvZ6g47uwXdBfw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.dynamic.runtime/4.3.0",
       "files": [
@@ -3676,7 +3888,11 @@
       ]
     },
     "System.Globalization/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "pjOXTlESKsy17f6sPK96EE76i/E1vHsd/ON9ev3+LIMFcgsvtTESjHu4Ugngqc+7d5XeQWSqchPQFgdHIhWG2g==",
+=======
+      "sha512": "+iiCC3koXGKAAAFlgPot7NsQIrXFr/pGPIcoaKOe2IwxFo1yclaso9UN1nUl7akyInazH2D3TMlfrY9eXaC0Fw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.globalization/4.3.0",
       "files": [
@@ -3742,7 +3958,11 @@
       ]
     },
     "System.Globalization.Calendars/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "sargl2iBjgZ4sRSTcvPXVU0srAQo4Ih85cw99hoH6Ux6fbJhyXR8f0xOqEuubdOBxIZz629cFnZEWxw0YPmCLQ==",
+=======
+      "sha512": "XJOJ8NdC8dY06Qjezd7tcCXZ3TTdt0L6UWQCRXhr8n9qxvAv+KqNY0dtkI51TKJ0dNRCMgB3dWf9m9VCtkf2CA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.globalization.calendars/4.3.0",
       "files": [
@@ -3778,7 +3998,11 @@
       ]
     },
     "System.Globalization.Extensions/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "8xxuBcp8DOc6bSfKJLWWbOZOthln7QRZblgf/9D0fpPqKPKKm7+AIzrc+UqlLHccR5+qe2oiZp5MEiLWVGrmcA==",
+=======
+      "sha512": "AF0LU2Ol5k8DpknDbuBxCU6Zt2EX6qwUOwc2JfSoqJorJqCR46e4G77b5Zl4f2uqunfKQsWD/5LJYtv+wbiCAg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.globalization.extensions/4.3.0",
       "files": [
@@ -3817,7 +4041,11 @@
       ]
     },
     "System.IO/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "gku36Pkx89wKWL5gVELtcHjJgJ2ubK90npJMKFsQ/8Bzr14+HDsGtc8utYzTuEZoaQHnrbPJtiFq9iOcztlQUg==",
+=======
+      "sha512": "ndUbYAJbDFUy95ZwbJMZnLoLqcNa+uFIjkeqL7c/7OG2BgKPvwufGul5jm6DzJ5CkM/XjARjMk9/IOyVjalVkw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.io/4.3.0",
       "files": [
@@ -3896,7 +4124,11 @@
       ]
     },
     "System.IO.Compression/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "zB38MRVJxqpTeIoO+CF5x6JUn10Kjjr6JlHAWJvPq75CBdpGj4CGzhiBRVt57v5CVpKIk11C2omllslivWnTlQ==",
+=======
+      "sha512": "ZlRmXLvFiJysVKMu0pWmHkFOOdbQwQaOTRa3nXkNXskb8QZ9hINsyNH/vRFQKWfLBIyXI+BSQZmX91Fpdm6QWQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.io.compression/4.3.0",
       "files": [
@@ -3965,7 +4197,11 @@
       ]
     },
     "System.IO.Compression.ZipFile/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "J8NitCTkqvshEfuEnQvUJp9uJ0kwCmdNzAE2dPBI++FsDk3QH4TteQoj/fb9DKvDfPXY3OVrvJ2bzPiBrTf5tA==",
+=======
+      "sha512": "DADrbfU7t8RPWdEDWxsjJoHgJpwFiV7KkyPQIweM2w+2JQ9+UDLRelSHuvhF/v8Rn7ASgsKPah2JC87KJAlNAQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.io.compression.zipfile/4.3.0",
       "files": [
@@ -4002,7 +4238,11 @@
       ]
     },
     "System.IO.FileSystem/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "ZvLsaWWVM5fGKPrZMMwPSi2xfGYHJtK8BNpPscn+Sqf/BWqLXn4Qe+rLBQLXaJQTebtsXI9HOC/56ZgMmxfoQQ==",
+=======
+      "sha512": "NafdpElAmdBome2OjAf48lJWp5ZrPQtbdQB2Kj8lI1NMy7UlaBzYTkbY8yn1JCVrx+w4jeHAtGXUN5SDl+CwrA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.io.filesystem/4.3.0",
       "files": [
@@ -4038,7 +4278,11 @@
       ]
     },
     "System.IO.FileSystem.Primitives/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "ibhEBIndL3jCaABbt0f6QWwSAJTDEdZ227wMFtDuYvQ7X4uivAfMgliQ0k6Y8t/kTaOJwhhLCgZz6e6zdlXsBw==",
+=======
+      "sha512": "4ZSmM5ZM7wHjpq/syfNRj8695u7DzyIO8qTv3xlgwKvwVDMGTYeNWxXIakQOuXBHm5BO96E32FLeK4pwedJoZA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.io.filesystem.primitives/4.3.0",
       "files": [
@@ -4075,7 +4319,11 @@
       ]
     },
     "System.IO.FileSystem.Watcher/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "niqz+zKLvm5tQo/IqMTxrv1fuq1dmbzJ4JOnoAplH+tPp9kJp+/YRTbPL60RdMDGfWx/yBCKDHoyXAQOG7Sduw==",
+=======
+      "sha512": "/ZUl41IgFnaJigck+m19l+y0ZbUQmXUdEGrFHgQXelQe9YH7vLEBtFR4Bd8wWZjGvun/+My7od5PdQWh5p+S5Q==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.io.filesystem.watcher/4.3.0",
       "files": [
@@ -4116,7 +4364,11 @@
       ]
     },
     "System.IO.MemoryMappedFiles/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "RS6h0rVHxE63uAGh3arkA+hlR+Z1rAPfa5XDC5VsVAuriDgtVn9fyh0G9pbUDNBZkS3K7BFyqFeuKgJoIHOnOQ==",
+=======
+      "sha512": "oyHr58sBiPVYMxBeb0s9vrV7T8tK3hLwpzGBLaoJAQ+I7NsDExu1kSrmk5LDKMPQN4q+D4EKqgJZOOWaaoczLw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.io.memorymappedfiles/4.3.0",
       "files": [
@@ -4156,7 +4408,11 @@
       ]
     },
     "System.IO.UnmanagedMemoryStream/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "L839yPhfgdhWXRnjfK0IwbyOzJOe5xXFbpaCfvboqUbRw2FSJJwicpbV3MXkwL8poTD6YBWi9czRlxNCpFJq/Q==",
+=======
+      "sha512": "Q8zRd/W7qn4+O/zdgQoN6JSL2pUADaDJMr0Gp7QEnhrp9tl0RDMcymXkCItZDsr2rVeMwQ4LSbQF6iNmxkSWhA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.io.unmanagedmemorystream/4.3.0",
       "files": [
@@ -4193,7 +4449,11 @@
       ]
     },
     "System.Linq/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "WsSEHfWhpczUh+ZZPHJI4ahL301XBaQP+GS8V8XZkNK7Uu0ny4Xy1aFafR6sZ/ieH8EbP2zfyVeP9rpEF9CXCw==",
+=======
+      "sha512": "MxuLKd25Fqdjo3dEQRN0+zcJvq0DUNz4d/hiuDBxVy5jbFjNDn2eR0oCB7+M12uaR83HMrbsTLLWLpGtz10dRw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.linq/4.3.0",
       "files": [
@@ -4263,7 +4523,11 @@
       ]
     },
     "System.Linq.Expressions/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "1YPJBzdcDyUYI3AzcMHtf40hqAp+ibRYfIDjBj43Ttu0ioDPTdyaDkinR8pBRRV2geMN85PNXpYnbOdj3Sw+aw==",
+=======
+      "sha512": "6hqms+GA4BHy7XvJcnJxeQqs2c3P3GKRUiV3FbkZFCWmjj1me5ZD2eeNxfgK+PnI2NtqMz7b1hoOMZZfZYkQYg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.linq.expressions/4.3.0",
       "files": [
@@ -4345,7 +4609,11 @@
       ]
     },
     "System.Linq.Parallel/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "Bi/QozCnEJiV3l5bN+xM76yZxDTPI1YCIS4lBGsWZHlENaFsvqKvIMNPImKfzBcICIhAxqhcjEK3Fus2yguAFA==",
+=======
+      "sha512": "03Raw6+4wVdVB4+web30j6nEq8QnqpJ6VRqyJQDRyio4tux9dMJxIwYP0G0riz0Tn5a11ForKc5XsjmZI8AL5w==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.linq.parallel/4.3.0",
       "files": [
@@ -4400,7 +4668,11 @@
       ]
     },
     "System.Linq.Queryable/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "XdsPx4pdQ092UJFBw1tcWWwwQROK2Xev2dBDNiOXZtdXg9UjQBr3TrtPu7XMZ0laNrJ8HFUNbVGnS1zTTjPxWg==",
+=======
+      "sha512": "rkQT5DRLoiSFosXEMypzBvQSd+tZ9tTN970Hr6U1MFVT2c/XdJ2YjQK6XEWENh/+WvMdz3kzU+Zk5ZoChDRSIQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.linq.queryable/4.3.0",
       "files": [
@@ -4457,7 +4729,11 @@
       ]
     },
     "System.Net.Http/4.3.2": {
+<<<<<<< Updated upstream
       "sha512": "MpIx54+L0/CSM7QhRyQiiuEDH9off0ixHwCgNKka5yN3NkHB3P//8degX/1pJiz53CCHwt/7HHILr2rzJPl2aw==",
+=======
+      "sha512": "vfzcECGNhlDP2bsZBT3dhCR4s9t3rUZppIIXaYrxZSDEBVJ5mzuN1Isdz8pWUmeQ98yIAguykWjsQMLgS18mhg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.net.http/4.3.2",
       "files": [
@@ -4497,7 +4773,11 @@
       ]
     },
     "System.Net.NameResolution/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "fNw/4AICmJ5imgG8ZE1AOJHesJNsMOskYjbCv2uytEqHzEAE6STlvpudlBPvEw9M3gZRmRK4MbFtdmkxLSUPvg==",
+=======
+      "sha512": "mOzuF9n7wCuIqmeV64zV+CIqWdJxwtElAnMa2DNVL40J7bDbm64QH1+5uKv6Y0leN2DyV+2BXMlagb/lnZbKpw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.net.nameresolution/4.3.0",
       "files": [
@@ -4537,7 +4817,11 @@
       ]
     },
     "System.Net.Primitives/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "v0425W1+e0gnaiQlcJFfhJQyAdRcf3iSOWIhUnsnvGi4SS5TXziVRmZYMtMDX892EvvWXXvW6/ezzJz5pZTySQ==",
+=======
+      "sha512": "fKy94NfHInEafpjGfbOabqmhGFmti/hY+oaFNdB9GLOw14dNHcNzmhoQVuUFRRyD8ZiSdEhjWTg7pZt2HvnuQQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.net.primitives/4.3.0",
       "files": [
@@ -4614,7 +4898,11 @@
       ]
     },
     "System.Net.Requests/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "nSClHOTNNDkCb9LrIK5vKYmmzwVVdJsHZMPZqNIpVSRsPpOA6xQ23AmhagGt1OBhJzfzaDgXyy1a82aSVkKTNQ==",
+=======
+      "sha512": "k/wZpoV0/7LtHYeKI0l/EuHzcEhTjDvQA5NWypO8wiIxGfwej+SA5jRH+AcK+gZpcV/gGnDUZYrigfaP8ulUmg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.net.requests/4.3.0",
       "files": [
@@ -4695,7 +4983,11 @@
       ]
     },
     "System.Net.Security/4.3.1": {
+<<<<<<< Updated upstream
       "sha512": "WavM1hH4T4pVfjUbGUfZoJAGZG6trdoyaLU4mHMMWk4kVQdqXnES2AOVT/zXSHnJTAont3+GndONJv/+PtWtig==",
+=======
+      "sha512": "M/e03+KSClxwUjCEwqV0m7bscZpGjgIfE6dWNU5OXQVDnp+OWJwxUzDiHCfuim8kjG9H0Yz/m1thdse2SW3RPg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.net.security/4.3.1",
       "files": [
@@ -4735,7 +5027,11 @@
       ]
     },
     "System.Net.Sockets/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "WH769K7kbJrAQgONpPZe+yR8BcbbTeiIMUh6GgGQAxxGighgCE/ZFd01UjGDEjTY1YwwDYyEh9W66cFn92Jyng==",
+=======
+      "sha512": "Z5UJpmYSxPSQ/ph+hAAuvdIntdswD8cbG68qDOMvZhay3VEP7wGYjxZvfxKRNNxBETvIweOoq9KsNiiIk+w36Q==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.net.sockets/4.3.0",
       "files": [
@@ -4771,7 +5067,11 @@
       ]
     },
     "System.Net.WebHeaderCollection/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "Pfh89hTpMin5u3aIJk9lkTyPzps/MollQhAS5KhWoP6SkWZpBUbprUVYzJqz5EtzB7+slY3ND1FKFhiUBNUoeg==",
+=======
+      "sha512": "bdOROtQZqf8CT0/bdRh5bNcn7V4t0LBVQidoCDEAM4iTEd3alhI3FNbAV5ooT6qRZf9nlgsn+AIVtflbH/E8qQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.net.webheadercollection/4.3.0",
       "files": [
@@ -4808,7 +5108,11 @@
       ]
     },
     "System.Numerics.Vectors/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "n8AX4WYaCaK2TBin282Hqe31H+J/xM40QATHdaxyQf2ooePNhvb9pDTFSgor8gUSe9zXtOI7co5M9nsyuok5Gg==",
+=======
+      "sha512": "1oGGiV46oQRh4UAesKTN/rVeYPoy13qFQDGQ9k/DZtmDU8/8CW0srCl125/yMLpYGsIIiAjMEqMlJqpb4bFSKw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.numerics.vectors/4.3.0",
       "files": [
@@ -4841,7 +5145,11 @@
       ]
     },
     "System.ObjectModel/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "PS2CRfsOH+V7xvBAtE/BF9KGbZPZGJeM4R+xcVvHHOyL3PNOkxLzCdLEd6cyzo5Jzw7Hbhz3D5Gb6gyJGNqrDQ==",
+=======
+      "sha512": "hm+VLps48gTZ50JfIcxCPr4BNt1qI0xIo7+m4mLvrOGKrjnpLBZwEoAtV7TpLr3QDtoXx4FuUptx4eDQsS3RYg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.objectmodel/4.3.0",
       "files": [
@@ -4909,7 +5217,11 @@
       ]
     },
     "System.Reflection/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "P4jfMR7ZM7lrMYdu2n6L0PaZXAwXdI1kCt5Yr3IkB4g9daZpYxsfg/KvF4nyHlCsjbiKbiJ4qLq80fJL9rw+lw==",
+=======
+      "sha512": "+0bHuU2MT6lT7Y0vSNN3l15p7bZOVVmASEy+GPtuJphZ0zGUGvTky3ksPG/HnHSCkxLqYrduUcXBUHTPH+Ig4g==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.reflection/4.3.0",
       "files": [
@@ -4988,7 +5300,11 @@
       ]
     },
     "System.Reflection.DispatchProxy/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "wFzoT4Ikl2PO4Fkg9IL/KDWjJ/6AeWzbrFBQvRA7ygUGf34s8Evs0v/JC+wO2oOiiC4X+vgdFuMhZBQlIZhAgg==",
+=======
+      "sha512": "5cR3peArzmLAuMXXxKtLNJfI/P0eyPR6w1yuEeibJoYi1hUyYJOrcLtptrSAVlXazTijSqja9TR68hMoRmkfGg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.reflection.dispatchproxy/4.3.0",
       "files": [
@@ -5024,7 +5340,11 @@
       ]
     },
     "System.Reflection.Emit/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "nhZHVyLWgz65uKeGAEZMocTOqBOHEvVQ3tSgU+XqA/8zyAXeIqbiIIwo8K4ya43eZh/3LcmPDT/Rqpa15bve6A==",
+=======
+      "sha512": "EHlQg4QlSKRG9GKuGj+ms8VFuXHn7JiYy/bUFwjapvADMRpigwnHuMQ+lFHQFCK81eYAzuSYXLBCZZvyW3fI8g==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.reflection.emit/4.3.0",
       "files": [
@@ -5058,7 +5378,11 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "+hT8tnmYd2gYdD9Wc8C/oxKTrlDedn+sTgUxLj5mu5X6UZknPYlVn9H14hU7mDeRNnWGIQaOGR2Cnnhwsr7W9Q==",
+=======
+      "sha512": "2Pa3G7nOB+Gh/IFr+Ckk5YChx3box7E1itdl5lq6UulV9lcUdqlLVuIIp/loMmoz3Lo0LokdV/nbVzzpUO91hQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.reflection.emit.ilgeneration/4.3.0",
       "files": [
@@ -5101,7 +5425,11 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "FimN5GdYqaqa8cYoBo0GuAderIaR/BGmYVFi1y1+GYpf7k6dR8obSY6NnDVtOptZuHIuBpqEpjeNcVL8CVDKLQ==",
+=======
+      "sha512": "V4y6xyH5CAY1uUz4auW2OMWOHWGTm8qn3E7rfS5Rhj9mP98WC8DreKmd0UaFroPvoQfqWjYyBPObPaO9ykL+zg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.3.0",
       "files": [
@@ -5144,7 +5472,11 @@
       ]
     },
     "System.Reflection.Extensions/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "S0BYJq61aKAxsm9HP4vENC7pU9xvLTWRUSKEpAzf9L8DO/IfOV2m72z/OnVd4Wa/4ZPpiERZOGNJGzHHIsXbWQ==",
+=======
+      "sha512": "bcVT4D5Wa2d/bGMaCgVu6nngqDZ/yyag6HC69yHMJZ3AmDPqRvJbXCLLwL2EUT8KpnN/O+zqGJcK5a+WyPkrng==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.reflection.extensions/4.3.0",
       "files": [
@@ -5199,7 +5531,11 @@
       ]
     },
     "System.Reflection.Metadata/1.4.1": {
+<<<<<<< Updated upstream
       "sha512": "NjyxkfvW+2kg7GXC2T4Hyn3TRobbupAejEAoL2qoNRcnBHeHo9JCFryipIcruZtlHDWEc1JkunI9LmtLz5U6QQ==",
+=======
+      "sha512": "oKOqrLlSFPHki2+2azTVseiXj0/715wAFkPY/tJMDYgV1CfShNz/q6mhdurJfuY7OaNkgJntCIi1toJxlH0B6g==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.reflection.metadata/1.4.1",
       "files": [
@@ -5214,7 +5550,11 @@
       ]
     },
     "System.Reflection.Primitives/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "zvZAOvzDhvE1NYk9k4e2Hvt3PZFDj4YDZpznhskdQU5nUvKj63vBffa2JwsJCQZd5VAqujgtVvB7eKry+uuEGQ==",
+=======
+      "sha512": "Dchang6eQIf9ituGoJCmxmfM4cQxXNHuKnxwT8rnoS/1ZVAXdqRt2lCzBnaTN7DdXypovbHIP14eFkzsZMmMLQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.reflection.primitives/4.3.0",
       "files": [
@@ -5269,7 +5609,11 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "m5LVWw/2L1U4CKp2xEsVd9auHOtx16XiPT6jiB9YlmtfB+m/fQmahUbIpZt6OCEmjCZn7z+/D3JPOPUPDRY73A==",
+=======
+      "sha512": "SzPLSDJqOkxfVgKKns+XlnjlEkiYsD5uDh/+FzUecKBByZk0ACIwWa8J3OPR8kQwe9e2Eo2GJozGOjFazPtdHg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.reflection.typeextensions/4.3.0",
       "files": [
@@ -5321,7 +5665,11 @@
       ]
     },
     "System.Resources.Reader/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "UE61pod4fKnYfMzjTkmcSwrxzYnZpnH8BHSU+dXMnR8fiOQ1/rgBNhLRsK+pDmqxJaXwAt5YRP/Iw7RTMzmsMA==",
+=======
+      "sha512": "IFf81XLjt9YUWMC5/sWFA2Cgag83SFoBp7ROQE8WJ/zFh4hUShQgjuqrB5xiNKPG2IuQ04x3mkwamtlLiGGR2w==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.resources.reader/4.3.0",
       "files": [
@@ -5333,7 +5681,11 @@
       ]
     },
     "System.Resources.ResourceManager/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "qOl/mlAeWZWPYB/U2R4NrGTudOLFubPUM/l8bpP+mcFFCV1GB17thfxeXFS7SjrpBekhWOAjm/dzBOpvjApImA==",
+=======
+      "sha512": "nqhkGQsV803toTRt2pWHggq7sjUWY+DKQvs565N/2lgyyMgmnMSQq26c3TlKrL20ucV4dSsloe0iRjUTIw3ZjA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.resources.resourcemanager/4.3.0",
       "files": [
@@ -5388,7 +5740,11 @@
       ]
     },
     "System.Runtime/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "FOZy1p7naIXSuDqRKYVwTF+aePvedJEydfiIoF78Bs+abl6+3wQNeOS7Ywgrr1BHe9cNdc950eF7YkgeIxKpSA==",
+=======
+      "sha512": "rJeR/pNdoHAOydhlt0De78PxUvNkyBgRD6XyZgpcbdQs7Og9Db5SHxmv6TNX7JG1bWlhyeRSh/rkheL+/4eLNA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.runtime/4.3.0",
       "files": [
@@ -5478,7 +5834,11 @@
       ]
     },
     "System.Runtime.Extensions/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "+Pblr1Z3MFbjErbHuaChDGVQsC3G/a6xHiHHlIhUIIq+nOA0Ma5RsZcJ2MpwMsYRXnjHxZYF0UKGSg88H/36sQ==",
+=======
+      "sha512": "iRZO5LYFMZNSpTJyyNFCNsLOwNgnM4aiRfshQTP2Cdvnsq84nyfBM3q2v3koIB+RV1P1+hDnMOfDfuKBudHfLg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.runtime.extensions/4.3.0",
       "files": [
@@ -5557,7 +5917,11 @@
       ]
     },
     "System.Runtime.Handles/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "EaCRJkGIY1kp8BNjByxmOssV/k3ZUcqj+JrIz6tVx3EF48/QEpQ6JqrwwluAm2nuFCUGKprGb4RCwnf9y6lTyw==",
+=======
+      "sha512": "NBabn1EG2TmSXZQLoFSi1MF6UEKhqRoT2oR3R0+1Wf2d9Ckd0NjS4WR2J+mkVbzxjyItVvbZio3X2V3+L3UW1w==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.runtime.handles/4.3.0",
       "files": [
@@ -5593,7 +5957,11 @@
       ]
     },
     "System.Runtime.InteropServices/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "abv5fbRziXxuJyhC+3auPMRgs1Dm1phVSNGTRohPigfY6ORhgL1Ezc/tGBcdxp00pVByP24cNskwcU5x6ZDLyQ==",
+=======
+      "sha512": "iK50255zVweJhq6jGjVwpz/tUkhk7Kp16yeGnO9d+zR9nZSgfAzd3g4kNpEf6aHc1ZgybI08oD0/Mc+ZVTX0qA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.runtime.interopservices/4.3.0",
       "files": [
@@ -5684,7 +6052,11 @@
       ]
     },
     "System.Runtime.InteropServices.RuntimeInformation/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "3LnjFimZhtlQKlDTDqj17vp78LCGClUcHF3SuCJqMNkN135Pftb0KFILlXdOadKDHOPECwuDB397iRkZ8h9phw==",
+=======
+      "sha512": "GuCN1HIoXGuj4PQSgy093guyAvhVwv7r0a5XVYzBaPBiRuGppeIdp7/a+ytGnndT6wVb3jwDN5/aDUxDdRLpjw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.runtime.interopservices.runtimeinformation/4.3.0",
       "files": [
@@ -5717,7 +6089,11 @@
       ]
     },
     "System.Runtime.Loader/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "z5xbsMP2NZXzKislKMovKoo6XxA0QUC0XztbfxGHf8bdYz0Pc5L8l4/fYw/CIAIg0+5ThG+M0jSitgmQM7QWeA==",
+=======
+      "sha512": "BSWnyqVjVrfjmVy3AoDvbmUKJBp4AUgmSB/ZDrGWzDS63PK2Ae9j7JcS84JnKktfwvNpjPMu8nR/HarEmzzhhw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.runtime.loader/4.3.0",
       "files": [
@@ -5747,7 +6123,11 @@
       ]
     },
     "System.Runtime.Numerics/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "z7Ouk71hbaU8WmLxyJP61iSqDLewXV/ufdNC3NpRE+eC1CXnjj1dtVRYyYCiFxB2k3IRucL76co+9+sR8nnXhQ==",
+=======
+      "sha512": "BFjSTx8GzfiKtuHrCZNzinmknMOnooo53kx95twUW4U0O15jyrYb8ev1L0zPgBIqT3MOoj8g60eM3V29Gn8EUg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.runtime.numerics/4.3.0",
       "files": [
@@ -5802,7 +6182,11 @@
       ]
     },
     "System.Security.Claims/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "BOezZwQtxywC0D/eiccSlfBfTulIf+HQ0pUmD4yZiMLedJTFTg/ry7yPlhAaYcnc3LsXWYyPlkU+xg5sZJo4vQ==",
+=======
+      "sha512": "tpf13iu+p3sEPaG2iY+WXFJ+ZLw0GRQ0HgMaIiUVBvJv6P788UOcYwyQHbO4jW9Vr/NBv56QdZix7s9lCCc8Pw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.security.claims/4.3.0",
       "files": [
@@ -5839,7 +6223,11 @@
       ]
     },
     "System.Security.Cryptography.Algorithms/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "Wvpbx3f4CLyY34HGt75PF9tLWqkTHptO88HDB+ZbYcBvx8YWIYeJjewG2vlPpnwH1KuIn4U6jQRejYFHCevRfA==",
+=======
+      "sha512": "Ht7+4Gqo8CS673+QqdyUkNEylubgMniE5CcRwL1vtWnY/3D5rKFBzWnUq47rivqGFt1WCVeo4Vlyt9Xmij//Zg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.security.cryptography.algorithms/4.3.0",
       "files": [
@@ -5878,7 +6266,11 @@
       ]
     },
     "System.Security.Cryptography.Cng/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "jVVBL0hGvkYY5XWhaHLCkiybQcNCiHGda2Zx/6ozihNQjol38WiUlDewa0AbXcekA0JD1CQMzz1Lx3m/Eap0IA==",
+=======
+      "sha512": "fariu2lqSfrgeVKIWpde7z+n8Hwhr9A7pJEYd1lJ+16VtJS0sL7cKucAoPi7MXzW3IitpY875sJABP0r22mOHQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.security.cryptography.cng/4.3.0",
       "files": [
@@ -5904,7 +6296,11 @@
       ]
     },
     "System.Security.Cryptography.Csp/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "Z6JQcznu5Zk/pLrQ872hIKZKt/NG3mSjGSXo3CHVAj1tnjQemT2XJ4gLWQENgSfyzZ/iJctUZethFXToMuBLnQ==",
+=======
+      "sha512": "S6hahPkpPcH8ujQQz5N+lOvBgZlLkF9/mnDQT747mkgWvtGoZrU1RT1pZSm+muqFpIfa8aP9FTwY53UQRVZ5Vg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.security.cryptography.csp/4.3.0",
       "files": [
@@ -5934,7 +6330,11 @@
       ]
     },
     "System.Security.Cryptography.Encoding/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "tlh9KG+fkhOfRbNaLCSx+aN5IFbUvapF1pUv/b2vifrhGYDS8dtuxIJMgLULj5CYf/ADIToZaZ5N7loeE70yZA==",
+=======
+      "sha512": "TvoWdV/lNCFPXieAX0PfyovqxpJA1rQ/9LLNHB8/brwtI/lYwb1kcj5xHRe0rdaP3lNGaeRKNxS6fivaM8ee0g==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.security.cryptography.encoding/4.3.0",
       "files": [
@@ -5973,7 +6373,11 @@
       ]
     },
     "System.Security.Cryptography.OpenSsl/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "CCyaaAGtdpce3sYzGQg2DeRiBN2ObA2L+LGIX4rgK7te5f0T2YDzoMYDtfdiCo7Br7bunMt/3sXoj7LOTtvrQA==",
+=======
+      "sha512": "FfOx2r5WlzRpBqrpy12Vrj9OniIJQC09dLw6VUWApfcrj9A9VFM+H5EfHxk3711fa8zWgPFrDDDajKC9fTSk3A==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -5987,7 +6391,11 @@
       ]
     },
     "System.Security.Cryptography.Primitives/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "ZeWr7b843GKJeqPKQ6lBwMJxNMVIn7HUP5G7G0mPOkAlqmLNFo31OpQEbIgEE1ceUiVn60EI956IdKKMhOeZ+g==",
+=======
+      "sha512": "NzQRcvE9uNxwrskQJNJPwmjpdJywXhOJH1194/9aOAVHybzB1zW0SLCEvpfY7ySndjsfiCE7va8Y8zDeW/3gNw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.security.cryptography.primitives/4.3.0",
       "files": [
@@ -6014,7 +6422,11 @@
       ]
     },
     "System.Security.Cryptography.X509Certificates/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "XkTB1qS5mxPvilYCEEB/apxMqZ0nydq+NYcwZaPGHUI/DND9EIusy8uF/3kMa6BHJKoJO2LAFXOpb8+Bf5eynQ==",
+=======
+      "sha512": "dPPUXUaf0YDmzYsCWAAnfxoiPb1bFyJ1Em6uQ7nGhHCLW4ycHYxB+4Y1c2vapVfRCd2qI9GTtrqyRSmucNmWbg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.security.cryptography.x509certificates/4.3.0",
       "files": [
@@ -6068,7 +6480,11 @@
       ]
     },
     "System.Security.Principal/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "2DSIiQ3XMZpiUYnKXvf1W1jYqgm3xLqbpId74sQAoEvju4gffLe0Hm8EXkyQLhlVPBevlGTBpRbfzbY19y4eug==",
+=======
+      "sha512": "8kdDIo0q6mzpbtZ/RkgCVz9/u2xFkwdFIAjDVONSCIeVqrK4fxUfjqn0mk9/BL9DSu4MIJgtfD53BVAYELMI0w==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.security.principal/4.3.0",
       "files": [
@@ -6125,7 +6541,11 @@
       ]
     },
     "System.Security.Principal.Windows/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "pZgyz+1uuHIRaJ8G4PSKm8EudCJljWIVPa2Qhs0mAnAj54mtAp4/UDNnyi3SbKX9+648PGDhoL4Y5c4NyItCug==",
+=======
+      "sha512": "ln3L/qSyjmAybXJI1bR29p6aXW7UdEXzPIuZGGR9aIRXMX0zyhHo5Ty2Y1vxUiOp6AJhVtELILAmxBQaMjHn8Q==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.security.principal.windows/4.3.0",
       "files": [
@@ -6152,7 +6572,11 @@
       ]
     },
     "System.Text.Encoding/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "OjYI3lJq28EJp3oOYlOvGXgup94QPmC8RjMMfiqfAuELS/4kGnzUNVA0W+A61oyLZxyummDW9fR8xW1pnih5Bg==",
+=======
+      "sha512": "HyodzHWI88bY7vV+zRw7XMn8M7OvbO8GxzqIA7cdRqqwQ1WNkJrLkxcqn033AQY/RGEXaIIiE4xpdFbkkE7Rlw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.text.encoding/4.3.0",
       "files": [
@@ -6218,7 +6642,11 @@
       ]
     },
     "System.Text.Encoding.CodePages/4.0.1": {
+<<<<<<< Updated upstream
       "sha512": "38r03FD72LAgk5pSdzLGU6torkUzDaEbbyDrZhqWjDck38V5vS5+VLEeRu+2xW7bCp5T20gCqiLzUBXg4qVgBw==",
+=======
+      "sha512": "AM68vy754mk/0ad1Q4Obp3TzGvb49iBbcbSdQjpd1Z1vz9T99c2nbyi5TbPk++4GD3zB1ykk4e7sL8bfwi4GAQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.text.encoding.codepages/4.0.1",
       "files": [
@@ -6255,7 +6683,11 @@
       ]
     },
     "System.Text.Encoding.Extensions/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "AFEmMLyuYJld0SactAdJqHWNuQ7z9RZANqwG/gzlNzaF/J1WBb+fAeLUhl80vn9cE+1nvWkkyDdzndRJqp57Ow==",
+=======
+      "sha512": "98Pt9CKKmEOFEQIxlscmOHY343WJ9Oci73d0sT45wbBxUbUUntwKe1DSy+e0BzOywN+5IJUXQj2D8d6lYV5c0A==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.text.encoding.extensions/4.3.0",
       "files": [
@@ -6321,7 +6753,11 @@
       ]
     },
     "System.Text.RegularExpressions/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "Aqw5iqXr5x8rzwFT6ZPwIXIFcyIjPI9mUL6GEtzI2B3deilrSl33nEJWcfOBF8yvJZxZIDc0amMXCDcJ+ewX2g==",
+=======
+      "sha512": "p+3AnWfGZ9VXq92HxdVpO0gU0O5tAo+DTs8V0ghLzKaZwqhZdHaGn02P9FyFg8y6ajPkQoS8im92WIyMZkeBlA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.text.regularexpressions/4.3.0",
       "files": [
@@ -6403,7 +6839,11 @@
       ]
     },
     "System.Threading/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "tRc/uWpQ/7yjZ6oy//yr7u4Dh1RQh5sBEWOlvLcV9E7dvw5RazXpXxspK+ZonETcmXf3MM6uuxZQulSK+UDTVQ==",
+=======
+      "sha512": "uacjDGiOB0Wuug63wdl04lCIDLY3iRMi4ypbBH0kqvZbjfTE9SlfGKklYlmg5KMiS+qepSAQ/VHxPSW6cNRkhg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.threading/4.3.0",
       "files": [
@@ -6472,7 +6912,11 @@
       ]
     },
     "System.Threading.Overlapped/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "cfsFK7JX1b9ilB8UxLFTZTzfCbUqObMP4jrDS9pPxTy4XID2IBaNaLSq0QXhlXN2xFnJE9SPAsX8h/QZKDH1Ag==",
+=======
+      "sha512": "eUeAbyPr6/np+cRvZOZdg8m4t6ZfCT/FNa9XQoCNw//kpSE34aD9Vccj9pODMxsGV2xAHC231TelgGNKn9d1Pg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.threading.overlapped/4.3.0",
       "files": [
@@ -6500,7 +6944,11 @@
       ]
     },
     "System.Threading.Tasks/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "ZC5SX6Kmi5opw9qWqOUzRs/moYVsuHt+kwq9D3n2GkXZwyoyR/rgMpFC1jk/+CwsXyT42O9R3VamYcBVfIUfVA==",
+=======
+      "sha512": "kr6i3FnApI627Djf7ckC6XgVv6qpDIcV+5g+apzrONTfrFzjkuvU7zEsVOcOzd2Tifou0hOoUaJABIfX6yKWww==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.threading.tasks/4.3.0",
       "files": [
@@ -6566,7 +7014,11 @@
       ]
     },
     "System.Threading.Tasks.Dataflow/4.7.0": {
+<<<<<<< Updated upstream
       "sha512": "4lG2KI6g1x7AFMCcmRG6Dmfl8IKnKeq0PAjenkqlNXymIW5Sb0uSKqSl0ZwigDT3dL4HlD8qH6Kv+YuQaUw4mw==",
+=======
+      "sha512": "ENUYwejLu2EsXxJOImNel1or2Z7Jv1zOzZZHe3strv+pJV3goLdPpDRAZit/MvGaBRSCAybiRgXZ23Mq3NSm5A==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.threading.tasks.dataflow/4.7.0",
       "files": [
@@ -6583,7 +7035,11 @@
       ]
     },
     "System.Threading.Tasks.Extensions/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "BFFSYkJr1dLXvesdw4O4LDrW3gwsVNE8SkpwqTvH/LdfKe1pHJZNMZmz0qlqFGjDvJnE0imimTMpODSg1Jae6A==",
+=======
+      "sha512": "d8b0HPq2n+Y9iBZus3s7u67KpeKJ9RKQhUKVWh8HM33NgNdXcpHSpvm5L9zR5DI2KKnXbKfWq8L75dICoX1zGg==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.threading.tasks.extensions/4.3.0",
       "files": [
@@ -6598,7 +7054,11 @@
       ]
     },
     "System.Threading.Tasks.Parallel/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "4I1HrISLX417v92H+O/BbtjEmso1bZPE+DXaFkUKRMbZ6IMNMSvt02//edgwytEQ3l9IIQn6p95c9bGBSl4JNw==",
+=======
+      "sha512": "PV6uSNBsyk8pnAhVe3Yv3NKsi/GPweCC8RrQ8K0V25YUAhSYZtoPeRhesm5Ebvcu5Ckchegtpi3ftsKsqhDoXQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.threading.tasks.parallel/4.3.0",
       "files": [
@@ -6653,7 +7113,11 @@
       ]
     },
     "System.Threading.Thread/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "gUlHdn0Xsn/rlmDtVHr4WOhGzfZ+IMi2CpbBlYgLQRvmcAsrfIodohgyxZIHhsqHGkjaRFSwd7pAdsPqT43XdQ==",
+=======
+      "sha512": "24dkOm1d70NaHBqNnW50mjakUKZ3T5c4jp6s1MgzHKqOngpA8NL5xqsy/NP12PtCGuQI3yyfpeZlu0rVt0k55g==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.threading.thread/4.3.0",
       "files": [
@@ -6691,7 +7155,11 @@
       ]
     },
     "System.Threading.ThreadPool/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "Y/wyofNWTCZZRlA1H0PKaWEUROG3WchvwQX2q6aKt+r9xATWLwm1Q3W9H8XJ7xryysqAu/jPTPYPIg23ujboiw==",
+=======
+      "sha512": "PNBdvQaJQwR5IqLW87xmBHV5TGqzdOwfNz6Sk2l7iEgRTVRsgkZ/5soucuL5dIMsmLrRQ8xG25k9TbKcg8XgyA==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.threading.threadpool/4.3.0",
       "files": [
@@ -6729,7 +7197,11 @@
       ]
     },
     "System.Threading.Timer/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "hiNHOIg43JQJigU3vy6Svh7aZYl4grifzrvbO8NKWezst9hcDpGfDD2Hw0z2IMeA09+bKbnFqPPvHQrDfnnqXQ==",
+=======
+      "sha512": "hrsFIepfTD/xSvFg/9zfQiPBAkIbKLdq0hwD932rwp60D1fPu9vuX6oCD0nYNi/SDTc25ymex07n1NFNhpZN+Q==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.threading.timer/4.3.0",
       "files": [
@@ -6782,7 +7254,11 @@
       ]
     },
     "System.Xml.ReaderWriter/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "INtMbQSaBAWaqmTsvPtgonEQskOQq0r1AMGArzz7Qn9rkiW4DnIEcG1bAHYLXUBdy5NBNaj2MEx2345rJEnoDg==",
+=======
+      "sha512": "RDKfHq3AQmJCs3fY9jgPGfLBGzP6f5dHlmFrSK0mYxka33aPJm0b1M2TmBvFw5477VMWuvxRapHYHX8iLDNbiQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.xml.readerwriter/4.3.0",
       "files": [
@@ -6852,7 +7328,11 @@
       ]
     },
     "System.Xml.XDocument/4.3.0": {
+<<<<<<< Updated upstream
       "sha512": "IRvY5ewMnY3dW3mOITh22zwt7T4E9Evl0njiLtNVk1H6Xz3wrZ81csudJRak3+2KxVOeLoNrd6p4D+/XtMspdA==",
+=======
+      "sha512": "oBhKqYuzHTWAyHQCLBZOVFc+WZ+osGowCcvUVn9O4/aDFPMPT93UYV/kv4nq0E1MaXzaYZGOvKlubHX/r3YEnQ==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.xml.xdocument/4.3.0",
       "files": [
@@ -6920,7 +7400,11 @@
       ]
     },
     "System.Xml.XmlDocument/4.0.1": {
+<<<<<<< Updated upstream
       "sha512": "kzWXnaWu3XVnhmwX6oFfswqD/4ZebghwAKucT1Htb7b5pL0eQ2udMSRzpKnzXuEAAWrA4mfeLIukDUYN1qEYcw==",
+=======
+      "sha512": "zo52fQKuuxShjW0yYQezokCsGwFWXJ1pj9Cf6nJNtaedZeSodYHarFsknZOhv6MydjT/MjdyFrWItgx6UcEUGw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.xml.xmldocument/4.0.1",
       "files": [
@@ -6957,7 +7441,11 @@
       ]
     },
     "System.Xml.XPath/4.0.1": {
+<<<<<<< Updated upstream
       "sha512": "ZXFxmzCcj2l7Vx0OANQr9sLMC6SbdGenEbFUoEisoP6OyYHTR7rS44+cEj1X9kGJFO0vCJG8LOAHKzHcttVkWg==",
+=======
+      "sha512": "ax/yduD2d+lRtG+or1RbTmkibjNoAvmmePKYmEFSRpIf4l0Muu/RGMG1KXZNzxCKfQIg5ZhpQzMsmp45p5irVw==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.xml.xpath/4.0.1",
       "files": [
@@ -6994,7 +7482,11 @@
       ]
     },
     "System.Xml.XPath.XDocument/4.0.1": {
+<<<<<<< Updated upstream
       "sha512": "fo79CrMX0SwZcCEFte2FaO+FUFd7f/A3b/krjbnB/u9zxUUSr6sLuj0LSiBLXLixZjEkN3HseiDOmR5GGwkjmg==",
+=======
+      "sha512": "j3w9uI2iQ4JVxNzuFTDJvoWhXcay577nrjJKkA+0kFNCESNjQ17ANSRUes1mhLx7sdLwCewZmmjj3PlkgtIO3w==",
+>>>>>>> Stashed changes
       "type": "package",
       "path": "system.xml.xpath.xdocument/4.0.1",
       "files": [
@@ -7037,21 +7529,36 @@
     ]
   },
   "packageFolders": {
+<<<<<<< Updated upstream
     "C:\\Users\\Danny\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Cameron\\.nuget\\packages\\": {}
+>>>>>>> Stashed changes
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\Danny\\Desktop\\DojoAssignments\\netCore\\magic_game\\magic_game.csproj",
       "projectName": "magic_game",
       "projectPath": "C:\\Users\\Danny\\Desktop\\DojoAssignments\\netCore\\magic_game\\magic_game.csproj",
       "outputPath": "C:\\Users\\Danny\\Desktop\\DojoAssignments\\netCore\\magic_game\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Cameron\\C#\\magic_game\\magic_game.csproj",
+      "projectName": "magic_game",
+      "projectPath": "C:\\Users\\Cameron\\C#\\magic_game\\magic_game.csproj",
+      "outputPath": "C:\\Users\\Cameron\\C#\\magic_game\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
+<<<<<<< Updated upstream
         "lib/netcoreapp1.1/magic_game.dll": "C:\\Users\\Danny\\Desktop\\DojoAssignments\\netCore\\magic_game\\bin\\placeholder\\netcoreapp1.1\\magic_game.dll"
+=======
+        "lib/netcoreapp1.1/magic_game.dll": "C:\\Users\\Cameron\\C#\\magic_game\\bin\\placeholder\\netcoreapp1.1\\magic_game.dll"
+>>>>>>> Stashed changes
       },
       "frameworks": {
         "netcoreapp1.1": {

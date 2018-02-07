@@ -16,11 +16,13 @@ namespace magic_game
             this.color = "black";
             this.spellType = "mod";
             this.cost = cost;
+            this.type = "spell";
             
         }   
-        public void use(object creature){
-            creature.health += this.defenseMod;
+        public void use(Creature creature){
+            creature.defense += this.defenseMod;
             creature.attack += this.attackMod;
+            //discard
         }
     }
 }

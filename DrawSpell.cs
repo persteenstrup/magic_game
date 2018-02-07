@@ -14,6 +14,7 @@ namespace magic_game
             this.color = "black";
             this.name =name;
             this.spellType = "draw";
+            this.type = "spell";
         }   
         public void use(Player player){
             for(var i = 0; i <= this.numberOfCards;i++){

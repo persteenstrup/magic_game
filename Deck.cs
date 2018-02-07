@@ -35,6 +35,7 @@ namespace magic_game{
     public Card Draw(){
             Card temp = this.cards[0];
             this.cards.RemoveAt(0);
+            player.hand.Add(temp);
             return temp;
         }
 
