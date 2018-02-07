@@ -9,7 +9,7 @@ namespace magic_game {
         public Deck deck;
         public List<Card> played_lands;
         private List<Card> hand;
-        public List<Creature> played_creatures;
+        public List<Card> played_creatures;
         // public Player target;
 
         public Player (string Humanname) {
@@ -26,7 +26,7 @@ namespace magic_game {
             hand.Add (deck.Draw ());
             black_mana = played_lands.Count;
             display (played_lands);
-            display (played_creatures);
+            display (played_creatures as List<Card>);
             display (hand);
             turnOptions (target);
 
@@ -75,10 +75,10 @@ namespace magic_game {
             }
         }
 
-        // public void display (Player target) {
-        //     display (target.played_lands);
-        //     display (target.played_creatures);
-        // }
+        public void displayOptions (Player target) {
+            display (target.played_lands);
+            display (target.played_creatures);
+        }
 
         public void attack (Player target) {
             this.display (played_creatures, "available");
