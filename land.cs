@@ -10,8 +10,8 @@ namespace magic_game
             type = "land";
         }
 
-        public overide void play(Player me, Player target) {
-            me.played_lands.add(this);
+        public override void play(Player me, Player target) {
+            me.played_lands.Add(this);
             me.black_mana ++;
         }
     }
