@@ -13,10 +13,14 @@ namespace magic_game {
         // public Player target;
 
         public Player (string Humanname) {
+            System.Console.WriteLine("IN PLAYER CONSTRUCTOR");
             Random rand = new Random ();
+            hand = new List<Card>();
+            played_creatures = new List<Card>();
+            played_lands = new List<Card>();
             name = Humanname;
             health = 20;
-            deck = new Deck ();
+            deck = new Deck (this);
             hand = deck.Draw5 ();
             black_mana = 0;
         }
@@ -151,7 +155,7 @@ namespace magic_game {
             } else {
                 System.Console.WriteLine ("Input was not an integer!");
                 this.attack (target);
-            }
+            }///ESCAPE
         }
 
         public void defend (Player me, Player attacker, Creature attacking_creature, int attackIdx) {

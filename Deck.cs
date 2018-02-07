@@ -12,7 +12,7 @@ namespace magic_game{
         }
     public Deck(Player player){
         this.player = player;
-        List<Card> cards = new List<Card>();
+        cards = new List<Card>();
         DamageSpell spinalTap = new DamageSpell(5,4,"Spinal Tap");
         ModSpell empower = new ModSpell(2,2,"empower", 4);
         DrawSpell resupply = new DrawSpell(2,2,"resupply");
