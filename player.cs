@@ -50,6 +50,18 @@ namespace magic_game {
                     Console.WriteLine ("Invalid input. Please try again.\n");
                 }
             }
+            endTurn(target);
+        }
+
+        public void endTurn(Player target){
+            untap();
+            target.untap();
+        }
+
+        public void untap(){
+            foreach(Creature creature in played_creatures){
+                creature.tapped = false;
+            }
         }
 
         public void playCard (Player target){
@@ -153,7 +165,7 @@ namespace magic_game {
             }
             int x = 0;
             if (Int32.TryParse (inputLine, out x)) {
-                if (!attacking_creature[x].tapped) {
+                if (!(played_creatures[x] as Creature).tapped) {
                     System.Console.WriteLine ("Creature has already defended!");
                     this.defend (me, attacker, attacking_creature, attackIdx);
                     return;
@@ -163,7 +175,7 @@ namespace magic_game {
                     this.defend (me, attacker, attacking_creature, attackIdx);
                     return;
                 } else {
-                    attacking_creature.battle (this, attacker, attackIdx, x, played_creatures[x]);
+                    attacking_creature.battle (this, attacker, attackIdx, x, (played_creatures[x] as Creature));
                     return;
                 }
             } else {
