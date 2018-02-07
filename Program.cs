@@ -6,7 +6,7 @@ namespace magic_game
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Game magic_game = new Game;
         }
     }
 }
