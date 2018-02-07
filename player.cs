@@ -51,10 +51,39 @@ namespace magic_game {
                 }
             }
         }
+
+        public void playCard (Player target){
+            System.Console.WriteLine("Which card would you like to play?");
+            System.Console.WriteLine("Please select a card index or input none");
+            System.Console.WriteLine($"You have {black_mana} remaining");
+            this.display(hand);
+            string input = Console.ReadLine();
+            if(input == "none"){
+                this.turnOptions(target);
+            } else{
+                int x = 0;
+                if (Int32.TryParse (input, out x)) {
+                    if (x > hand.Count - 1) {
+                        System.Console.WriteLine("Index out of range!");
+                        playCard(target);
+                    } else{
+                        if(hand[x].cost < black_mana){
+                            hand[x].play(this, target);
+                            black_mana -= hand[x].cost;
+                            hand.RemoveAt(x);
+                        } else {
+                            System.Console.WriteLine("You don't have enough mana!");
+                            this.playCard(target);
+                        }
+                    }
+                }
+            }
+
+        }
         public void display (List<Card> cards) {
             foreach (Card card in cards) {
                 Console.WriteLine ("--- [{0}] ---\nType: {1} | Color: {2} | Cost: {3}", card.name, card.type, card.color, card.cost);
-                if (card.type = "creature") {
+                if (card.type == "creature") {
                     Creature creature = card as Creature;
                     Console.WriteLine ("Attack: {0} | Defense: {1}", creature.attack, creature.defense);
                 } else if (card.type == "spell") {
