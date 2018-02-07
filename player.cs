@@ -54,12 +54,15 @@ namespace magic_game {
         public void display (List<Card> cards) {
             foreach (Card card in cards) {
                 Console.WriteLine ("--- [{0}] ---\nType: {1} | Color: {2} | Cost: {3}", card.name, card.type, card.color, card.cost);
-                Creature maybeCreature = card as Creature;
-                if (maybeCreature != null) {
-                    Console.WriteLine ("Attack: {0} | Defense: {1}", maybeCreature.attack, maybeCreature.defense);
+                if (card.type = "creature") {
+                    Creature creature = card as Creature;
+                    Console.WriteLine ("Attack: {0} | Defense: {1}", creature.attack, creature.defense);
                 } else if (card.type == "spell") {
+                    Spell creature = card as Spell;
                     // spell stuff
                     // spells: (draw) # of cards (mod) att/def (damage) damage
+                } else if (card.type == "land") {
+                    
                 }
             }
         }
@@ -75,7 +78,7 @@ namespace magic_game {
             }
         }
 
-        public void displayOptions (Player target) {
+        public void display (Player target) {
             display (target.played_lands);
             display (target.played_creatures);
         }
