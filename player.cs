@@ -35,7 +35,7 @@ namespace consolegame {
             bool validChoice = false;
             while (!validChoice) {
                 Console.WriteLine ("What would you like to do? (Select by number.)\n1. Play a card from your hand.\n2. Attack {0}.\n3. Display cards.\n4. End turn.\n", target.name);
-                input = Console.ReadLine (); //? i forget if this displays twice
+                string input = Console.ReadLine (); //? i forget if this displays twice
 
                 if (input == "1") {
                     playCard(target);
