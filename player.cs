@@ -9,7 +9,7 @@ namespace magic_game {
         public Deck deck;
         public List<Card> played_lands;
         private List<Card> hand;
-        public List<Card> played_creatures;
+        public List<Creature> played_creatures;
         // public Player target;
 
         public Player (string Humanname) {
@@ -53,9 +53,10 @@ namespace magic_game {
         }
         public void display (List<Card> cards) {
             foreach (Card card in cards) {
-                Console.WriteLine ("--- [{0}] ---\nType: {1} | Color: {2} | Cost: {3}", card.name, card.type, card.color, color.cost);
-                if (card.type == "creature") {
-                    Console.WriteLine ("Attack: {0} | Defense: {1}", card.attack, card.defense);
+                Console.WriteLine ("--- [{0}] ---\nType: {1} | Color: {2} | Cost: {3}", card.name, card.type, card.color, card.cost);
+                Creature maybeCreature = card as Creature;
+                if (maybeCreature != null) {
+                    Console.WriteLine ("Attack: {0} | Defense: {1}", maybeCreature.attack, maybeCreature.defense);
                 } else if (card.type == "spell") {
                     // spell stuff
                     // spells: (draw) # of cards (mod) att/def (damage) damage
@@ -63,21 +64,21 @@ namespace magic_game {
             }
         }
 
-        public void display (List<Card> cards, string condition) {
+        public void display (List<Creature> cards, string condition) {
             if (condition == "available") {
-                foreach (Card card in cards) {
+                foreach (Creature card in cards) {
                     if (card.tapped) {
-                        Console.WriteLine ("--- [{0}] ---\nType: {1} | Color: {2} | Cost: {3}", card.name, card.type, card.color, color.cost);
+                        Console.WriteLine ("--- [{0}] ---\nType: {1} | Color: {2} | Cost: {3}", card.name, card.type, card.color, card.cost);
                         Console.WriteLine ("Attack: {0} | Defense: {1}", card.attack, card.defense);
                     }
                 }
             }
         }
 
-        public void display (Player target) {
-            display (target.played_lands);
-            display (target.played_creatures);
-        }
+        // public void display (Player target) {
+        //     display (target.played_lands);
+        //     display (target.played_creatures);
+        // }
 
         public void attack (Player target) {
             this.display (played_creatures, "available");

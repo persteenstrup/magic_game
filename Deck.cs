@@ -37,6 +37,15 @@ namespace magic_game{
             this.cards.RemoveAt(0);
             return temp;
         }
+
+    public List<Card> Draw5(){
+        List<Card> temp = new List<Card>();
+        for(int i=0; i<5;i++){
+            temp.Add(this.cards[0]);
+            this.cards.RemoveAt(0);
+        }
+        return temp;
+    }
         public Deck Reset(Deck deck){
              deck = new Deck();
              return deck;
