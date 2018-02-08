@@ -12,6 +12,7 @@ namespace magic_game
             this.name = name;
             this.spellType= "damage";
             this.type = "spell";
+            this.cost = cost;
         }   
         public void use(Object victim){
             if(victim is Creature){

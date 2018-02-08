@@ -24,8 +24,9 @@ namespace magic_game {
             //if creature has some on play ability, you would need to create it as a child play function, which would override this play function;
         }
 
-        public void battle(Player attacker, Player target) {  // this is used when no defense happens
+        public void battle(Player target, Player me) {  // this is used when no defense happens
             target.health -= attack;
+            Console.WriteLine("{0} hit {1} for {2} damage! {1} has {3} health left!", name, target.name, attack, target.health);
         }
 
         public void battle(Player attackplayer, Player defendplayer, int attackCreatureIdx, int defendCreatureIdx, Creature defendCreature){

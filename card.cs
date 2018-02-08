@@ -2,19 +2,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace magic_game
-{
-    public abstract class Card{
+namespace magic_game {
+    public abstract class Card {
         public int cost;
         public String color;
         public String type;
 
         public String name;
-        protected Card(){
+        protected Card () {
             color = "black";
         }
 
-        public virtual void play(Player me, Player target) {  // with virtual in the parent function and override in the child function, it should run the child version of play when called on a generic "card" class
+        public virtual void play (Player me, Player target) { // with virtual in the parent function and override in the child function, it should run the child version of play when called on a generic "card" class
             // if (this.type == "land") {
             //     // Land landcard = this as Land;
             // }
