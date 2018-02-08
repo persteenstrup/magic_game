@@ -8,6 +8,7 @@ namespace magic_game
         public Land() :base() {
             cost = 0;
             type = "land";
+            name = "Swamp";
         }
 
         public override void play(Player me, Player target) {

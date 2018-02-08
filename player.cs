@@ -27,8 +27,23 @@ namespace magic_game {
             // this.target = target;
             hand.Add (deck.Draw ());
             black_mana = played_lands.Count;
+            System.Console.WriteLine ("");
+            System.Console.WriteLine ("_________________________________");
+            System.Console.WriteLine ("Lands in Play");
+            System.Console.WriteLine ("_________________________________");
+            System.Console.WriteLine ("");
             display (played_lands);
+            System.Console.WriteLine ("");
+            System.Console.WriteLine ("_________________________________");
+            System.Console.WriteLine ("Creatures in Play");
+            System.Console.WriteLine ("_________________________________");
+            System.Console.WriteLine ("");
             display (played_creatures);
+            System.Console.WriteLine ("");
+            System.Console.WriteLine ("_________________________________");
+            System.Console.WriteLine ("Player Hand");
+            System.Console.WriteLine ("_________________________________");
+            System.Console.WriteLine ("");
             display (hand);
             turnOptions (target);
 
@@ -76,16 +91,17 @@ namespace magic_game {
             } else {
                 int x = 0;
                 if (Int32.TryParse (input, out x)) {
-                    if (x-1 > hand.Count - 1) {
+                    if (x - 1 > hand.Count - 1) {
                         System.Console.WriteLine ("Index out of range!");
                         playCard (target);
                     } else {
-                        if (hand[x-1].cost <= black_mana) {
-                            hand[x-1].play (this, target);
-                            black_mana -= hand[x-1].cost;
-                            hand.RemoveAt (x-1);
+                        if (hand[x - 1].cost <= black_mana) {
+                            hand[x - 1].play (this, target);
+                            black_mana -= hand[x - 1].cost;
+                            hand.RemoveAt (x - 1);
+                            System.Console.WriteLine(hand);
                         } else {
-                            System.Console.WriteLine ("You don't have enough mana for {0}", hand[x-1].name);
+                            System.Console.WriteLine ("You don't have enough mana for {0}", hand[x - 1].name);
                             this.playCard (target);
                         }
                     }
@@ -95,6 +111,8 @@ namespace magic_game {
         }
         public void display (List<Card> cards) {
             for (int i = 0; i < cards.Count; i++) {
+                System.Console.WriteLine ("");
+                System.Console.WriteLine ("_________________________________");
                 Console.WriteLine ("{0}. --- [{1}] ---\nType: {2} | Color: {3} | Cost: {4}", i + 1, cards[i].name, cards[i].type, cards[i].color, cards[i].cost);
                 if (cards[i].type == "creature") {
                     Creature creature = cards[i] as Creature;
@@ -146,11 +164,11 @@ namespace magic_game {
                 return;
             }
             if (Int32.TryParse (input, out x)) {
-                if (x-1 > played_creatures.Count - 1) {
+                if (x - 1 > played_creatures.Count - 1) {
                     System.Console.WriteLine ("That is not a card. Please select a card.");
                     this.attack (target);
                 } else {
-                    target.defend (target, this, played_creatures[x-1] as Creature, x-1);
+                    target.defend (target, this, played_creatures[x - 1] as Creature, x - 1);
                 }
             } else {
                 System.Console.WriteLine ("Please pick an available card.");
@@ -169,17 +187,17 @@ namespace magic_game {
                 return;
             }
             if (Int32.TryParse (input, out x)) {
-                if (!(played_creatures[x-1] as Creature).tapped) {
+                if (!(played_creatures[x - 1] as Creature).tapped) {
                     System.Console.WriteLine ("Creature has already defended!");
                     this.defend (me, attacker, attacking_creature, attackIdx);
                     return;
                 }
-                if (x-1 > played_creatures.Count - 1) {
+                if (x - 1 > played_creatures.Count - 1) {
                     System.Console.WriteLine ("Creature index out of range!");
                     this.defend (me, attacker, attacking_creature, attackIdx);
                     return;
                 } else {
-                    attacking_creature.battle (this, attacker, attackIdx, x-1, (played_creatures[x-1] as Creature));
+                    attacking_creature.battle (this, attacker, attackIdx, x - 1, (played_creatures[x - 1] as Creature));
                     return;
                 }
             } else {
